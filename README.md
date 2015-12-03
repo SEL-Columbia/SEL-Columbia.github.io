@@ -2,8 +2,8 @@
 
 To run this in terminal:
 
-~~~bash
+```bash
 jekyll serve
-~~~
+```
 
 Access the site at `localhost:4000`.
