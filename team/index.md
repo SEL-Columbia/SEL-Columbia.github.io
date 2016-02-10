@@ -2,7 +2,7 @@
 id: 20
 title: Projects
 author: Jonathan Carbajal
-layout: page
+layout: default
 guid: http://modilabs.org/?page_id=20
 ---
 

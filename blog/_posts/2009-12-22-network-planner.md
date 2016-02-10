@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=30
 permalink: /network-planner/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/np-overview.png
+  - /assets/uploads/blog/2010/04/np-overview.png
 categories:
   - Energy Planning
 tags:

@@ -30,7 +30,7 @@ guid: http://sel.columbia.edu/?page_id=3532
     </p>
     
     <p>
-      <a href="/assets/images/blog/2012/06/Infrastructure_and_Energy_Report_WEB.pdf">View a summary of infrastructure related activities.</a>
+      <a href="/assets/uploads/blog/2012/06/Infrastructure_and_Energy_Report_WEB.pdf">View a summary of infrastructure related activities.</a>
     </p>
     
     <p>
@@ -47,7 +47,7 @@ guid: http://sel.columbia.edu/?page_id=3532
       Piped Water Networks
     </h3>
     
-    <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/waterMVP.jpg" />
+    <img src="/assets/uploads/blog/2014/03/waterMVP.jpg" />
   </div>
 </div>
 
@@ -86,7 +86,7 @@ guid: http://sel.columbia.edu/?page_id=3532
         Household Energy: Improved Cookstoves
       </h3>
       
-      <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/cookstovesMVP.jpg" />
+      <img src="/assets/uploads/blog/2014/03/cookstovesMVP.jpg" />
     </div>
   </div>
   
@@ -121,7 +121,7 @@ guid: http://sel.columbia.edu/?page_id=3532
               </p>
               
               <p>
-                <a href="/assets/images/blog/2013/06/Tiby_Cooking-Success_Final.pdf">Improved Cookstoves Decrease Wood Gathering and Increase Savings Rates</a></br> <a href="/assets/images/blog/2013/06/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.pdf">Testing institutional biomass cookstoves in rural Kenyan</a></br> <a href="/assets/images/blog/2013/06/Tyler_Household_Performance.pdf">Investigation of Stove Performance in Households in Southwestern Uganda</a></br> <a href="http://www.millenniumvillages.org/uploads/ReportPaper/Adkins_HHstovepaper_9-28-101.pdf">Field testing and survey evaluation of household biomass cookstoves in rural sub-Saharan Africa</a>
+                <a href="/assets/uploads/blog/2013/06/Tiby_Cooking-Success_Final.pdf">Improved Cookstoves Decrease Wood Gathering and Increase Savings Rates</a></br> <a href="/assets/uploads/blog/2013/06/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.pdf">Testing institutional biomass cookstoves in rural Kenyan</a></br> <a href="/assets/uploads/blog/2013/06/Tyler_Household_Performance.pdf">Investigation of Stove Performance in Households in Southwestern Uganda</a></br> <a href="http://www.millenniumvillages.org/uploads/ReportPaper/Adkins_HHstovepaper_9-28-101.pdf">Field testing and survey evaluation of household biomass cookstoves in rural sub-Saharan Africa</a>
               </p>
             </div>
           </div>
@@ -134,7 +134,7 @@ guid: http://sel.columbia.edu/?page_id=3532
                 Solar Lighting
               </h3>
               
-              <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/solarMVP.jpg" />
+              <img src="/assets/uploads/blog/2014/03/solarMVP.jpg" />
             </div>
           </div>
           
@@ -143,7 +143,7 @@ guid: http://sel.columbia.edu/?page_id=3532
               </br> 
               
               <p>
-                Beyond energy for cooking and heating, households in the rural areas of the Millennium Villages typically do not have access to grid electricity and so they rely upon kerosene and other expensive and unclean forms of energy for lighting. However, lanterns that use light-emitting diodes (LEDs) powered by batteries, which are in turn charged by grid electricity or small solar panels, have emerged as a cost-competitive alternative to kerosene and other fuel-based lighting technologies, offering brighter light for longer duration at equal or lower cost over time. The Sustainable Engineering Lab spent several years working within the Millennium Villages to assess the technical and commercial potential of large-scale adoption of these LED lanterns. Innovative financing programs were established in several countries and the results suggest that market based models of LED lighting technology dissemination has the potential to be replicated and scaled up in other off-grid regions of developing countries. <a href="/assets/images/blog/2013/10/Modi2010Off-grid-.pdf">View one such example in Malawi.</a>
+                Beyond energy for cooking and heating, households in the rural areas of the Millennium Villages typically do not have access to grid electricity and so they rely upon kerosene and other expensive and unclean forms of energy for lighting. However, lanterns that use light-emitting diodes (LEDs) powered by batteries, which are in turn charged by grid electricity or small solar panels, have emerged as a cost-competitive alternative to kerosene and other fuel-based lighting technologies, offering brighter light for longer duration at equal or lower cost over time. The Sustainable Engineering Lab spent several years working within the Millennium Villages to assess the technical and commercial potential of large-scale adoption of these LED lanterns. Innovative financing programs were established in several countries and the results suggest that market based models of LED lighting technology dissemination has the potential to be replicated and scaled up in other off-grid regions of developing countries. <a href="/assets/uploads/blog/2013/10/Modi2010Off-grid-.pdf">View one such example in Malawi.</a>
               </p>
             </div>
             
@@ -165,7 +165,7 @@ guid: http://sel.columbia.edu/?page_id=3532
                   Literacy Assessments in the Millennium Villages
                 </h3>
                 
-                <img src="http://sel.columbia.edu/wp-content/uploads/2014/03/educationMVP.jpg" /></a>
+                <img src="/assets/uploads/blog/2014/03/educationMVP.jpg" /></a>
               </div>
             </div>
             

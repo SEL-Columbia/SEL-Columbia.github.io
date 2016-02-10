@@ -3,16 +3,13 @@ title: About
 layout: default
 ---
 
-{% for post in site.categories.about %}
-
 <div class="row">
   <div class="col-md-9 col-lg-6 col-sm-12"> 
-    <h2>{{ post.title }}</h2>
-    <p>{{ post.content }}</p> 
+    <h2>Mission</h2>
+    <p>The Sustainable Engineering Lab at the School of Engineering (SEAS) and The Earth Institute, Columbia University uses engineering to help address development issues. We engineer software solutions to help make development planning smarter and to improve the delivery of critical services like health and energy in the developing world.</p> 
   </div>
 </div>
 
-{% endfor %}
 
 <!-- Current Members (team) -->
 
@@ -61,3 +58,22 @@ layout: default
 </div>
 
 {% endfor %}
+<div class="row">
+  <div class="col-md-9 col-lg-6 col-sm-12"> 
+    <h2>Partners</h2>
+    <p>
+      We work with diverse partners, ranging from small non-profit organizations to large government bodies, mainly working in the developing world.
+    </p>
+    <ul>
+      <li>Office of the Senior Special Assistant to the President on Millennium Development Goals, Nigeria — Nigeria MDGs Information System, Formhub, Facilities Inventory</li>
+      <li><a href="http://frhsindia.org/">Foundation for Research in Health Systems</a>, <a href="http://who.int/">World Health Organization</a>, National Rural Health Mission, Karnataka — Drishti</li>
+      <li><a href="http://www.millenniumvillages.org/">The Millennium Villages Project</a> — Formhub, ChildCount, Facilities Inventory</li>
+      <li><a href="http://www.africasoils.net/">Africa Soil Information System (AfSIS)</a>, <a href="http://africasoils.net/EthiopiaSoils">Ethiopia Soil Information System (EthioSIS)</a> — Formhub</li>
+      <li>Kenyan and Senegalese electricity utilities (KPLC and SENELEC) in conjunction with Ministry of Energy in Kenya and the Rural Electrification Agency in Senegal (ASER) has mplemented Network Planner for national level electricity planning.</li>
+      <li><a href="http://internews.org/">Internews</a> — Formhub, <a href="http://innovation.internews.org/pilots/project/humanitarian-toolkit">Humanitarian Data Toolkit</a></li>
+    </ul>
+  </div>
+</div>
+
+
+

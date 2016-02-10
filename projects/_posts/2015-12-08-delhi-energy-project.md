@@ -13,7 +13,7 @@ guid: http://sel.columbia.edu/?page_id=4231
     </h2>
     <br />
     
-    <img src="{{ site.baseurl }}/assets/images/projects/posts/{{ page.path_title }}/Dehli_energy_header_939x400.png" alt="Delhi Electric Data Viz" />
+    <img src="{{ site.baseurl }}/assets/uploads/projects/posts/{{ page.path_title }}/Dehli_energy_header_939x400.png" alt="Delhi Electric Data Viz" />
   </div>
 </div>
 

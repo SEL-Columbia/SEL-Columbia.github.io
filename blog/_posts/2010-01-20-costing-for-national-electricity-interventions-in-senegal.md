@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=302
 permalink: /costing-for-national-electricity-interventions-in-senegal/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/senegal.jpg
+  - /assets/uploads/blog/2010/04/senegal.jpg
 categories:
   - Energy Planning
   - Papers
@@ -19,4 +19,4 @@ The Columbia Earth Institute has developed a comprehensive energy planning metho
 
 [ This report details the Earth Institute methodology, describes data obtained in Senegal, and presents cost estimates for selected electrification scenarios][1].
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/04/Senegal_WorldBank_Report_8-07.pdf
+ [1]: /assets/uploads/blog/2013/04/Senegal_WorldBank_Report_8-07.pdf

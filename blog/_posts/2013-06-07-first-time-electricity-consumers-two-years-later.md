@@ -9,7 +9,7 @@ categories:
   - Shared Solar
 ---
 <div id="attachment_2402" style="width: 710px" class="wp-caption alignnone">
-  <a href="/assets/images/blog/2013/06/rsz_1rsz_102_1290.jpg"><img class="size-full wp-image-2402" alt="From left to right: Innocent Nuwananya, Mitchell Lee, and Toko Emmanuel" src="/assets/images/blog/2013/06/rsz_1rsz_102_1290.jpg" width="700" height="525" /></a>
+  <a href="/assets/uploads/blog/2013/06/rsz_1rsz_102_1290.jpg"><img class="size-full wp-image-2402" alt="From left to right: Innocent Nuwananya, Mitchell Lee, and Toko Emmanuel" src="/assets/uploads/blog/2013/06/rsz_1rsz_102_1290.jpg" width="700" height="525" /></a>
   
   <p class="wp-caption-text">
     From left to right: Innocent Nuwananya, Mitchell Lee, and Toko Emmanuel
@@ -23,7 +23,7 @@ categories:
 ### Lots of Data SharedSolar continues to supply electricity to the customers in Uganda. For nearly two years, the metering equipment for each SharedSolar site has been recording customer-level energy usage and credit data at three second intervals. Managing the data has been somewhat daunting. Before we could do any analysis, we had to piece together tens of gigabytes of data spread across hundreds of millions of tiny files. However, organizing and analyzing the SharedSolar data has been fascinating. Once pieced together, those millions of files reveal a story that has never been told. We are beginning to gain a unique insight into the technology adoption process for electricity infrastructure access in the developing world. 
 
 <div id="attachment_2398" style="width: 710px" class="wp-caption alignnone">
-  <a href="/assets/images/blog/2013/06/Blogpost-Energy-Demand-Growth-Example-Plot.png"><img class="size-large wp-image-2398" alt="Example of growth in demand for one SharedSolar site. Connected to grid are a general store, a pharmacy, a hair salon, saloons, barber shops and tailors." src="/assets/images/blog/2013/06/Blogpost-Energy-Demand-Growth-Example-Plot-1024x654.png" width="700" height="654" /></a>
+  <a href="/assets/uploads/blog/2013/06/Blogpost-Energy-Demand-Growth-Example-Plot.png"><img class="size-large wp-image-2398" alt="Example of growth in demand for one SharedSolar site. Connected to grid are a general store, a pharmacy, a hair salon, saloons, barber shops and tailors." src="/assets/uploads/blog/2013/06/Blogpost-Energy-Demand-Growth-Example-Plot-1024x654.png" width="700" height="654" /></a>
   
   <p class="wp-caption-text">
     Example of growth in demand for one SharedSolar site connected to grid are a general store, a pharmacy, a hair salon, saloons, barber shops and tailors. Please note that this figure is relying on a preliminary dataset. Further analysis must be conducted in order to fully vet the results.
@@ -35,7 +35,7 @@ categories:
 <a title="Price Elasticity of Demand" href="http://en.wikipedia.org/wiki/Price_elasticity_of_demand" target="_blank">inelastic</a>, or at best, <a title="Price Elasticity of Demand" href="http://en.wikipedia.org/wiki/Price_elasticity_of_demand" target="_blank">unitary elastic</a>. However, growth in energy consumption has greatly exceeded our expectations. In several of the micro-grids, revenue collected continues to increase despite reductions in the per kilowatt energy tariff. SharedSolar grid connection has only reached a small percentage of the households in Ruhiira. However, those who have energy access have been financially motivated to share their new resource. Thus, the number of households benefitting from electricity access is several times greater than the number of households physically connected to SharedSolar. Households and produce stands have been transformed into barber shops, electronics shops, computer access points, and restaurants with TV access to FIFA matches. Public institutions have been able to provide better services; schools have introduced pupils to computers, and micro-banks have begun to digitize transaction records. Given electricity, people will find something to plug in. Often that device converts electricity into value for the community. 
 
 <div id="attachment_2432" style="width: 710px" class="wp-caption alignnone">
-  <a href="/assets/images/blog/2013/06/electronics_shop.png"><img class="size-large wp-image-2432 " alt="Electronics shop and computer access point that uses SharedSolar as its energy provider. Shop located in Nyaktunda Village, in Ruhiira region of Uganda." src="/assets/images/blog/2013/06/electronics_shop-700x207.png" width="700" height="207" /></a>
+  <a href="/assets/uploads/blog/2013/06/electronics_shop.png"><img class="size-large wp-image-2432 " alt="Electronics shop and computer access point that uses SharedSolar as its energy provider. Shop located in Nyaktunda Village, in Ruhiira region of Uganda." src="/assets/uploads/blog/2013/06/electronics_shop-700x207.png" width="700" height="207" /></a>
   
   <p class="wp-caption-text">
     Electronics shop and computer access point that uses SharedSolar as its energy provider. Shop located in Nyaktunda village, in the Ruhiira region, Uganda.

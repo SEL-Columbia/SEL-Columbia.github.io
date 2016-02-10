@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=1963
 permalink: /nyc-energy-mapping-project/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2012/02/map-blog480.jpg
+  - /assets/uploads/blog/2012/02/map-blog480.jpg
 categories:
   - News
   - Urban Energy Modeling

@@ -7,7 +7,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=629
 permalink: /energy-systems-senegal/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/potoucomps-border.png
+  - /assets/uploads/blog/2010/04/potoucomps-border.png
 categories:
   - Energy Planning
   - Millenium Villages Project
@@ -29,5 +29,5 @@ Field research: Jose Barnuevo; summary and presentation: Rahul Kitchlu
 
 [Energy Systems Update &#8211; Senegal &#8211; Full Report][2]
 
- [1]: /wp-content/uploads/2013/06/Rural-Energy-Systems-Update_MVP-Senegal_Short.pdf
- [2]: /wp-content/uploads/2013/06/Jose-PotouFinalreport-JPedits.pdf
+ [1]: /assets/uploads/blog/2013/06/Rural-Energy-Systems-Update_MVP-Senegal_Short.pdf
+ [2]: /assets/uploads/blog/2013/06/Jose-PotouFinalreport-JPedits.pdf

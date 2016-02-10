@@ -15,7 +15,7 @@ guid: http://sel.columbia.edu/?page_id=4087
     
     <hr />
     
-    <img src="http://sel.columbia.edu/wp-content/uploads/2014/10/sharedSolar_hero.jpg" alt="sharedSolar_hero" />
+    <img src="/assets/uploads/blog/2014/10/sharedSolar_hero.jpg" alt="sharedSolar_hero" />
   </div>
 </div>
 
@@ -44,11 +44,11 @@ guid: http://sel.columbia.edu/?page_id=4087
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads:</strong><br /><a href="http://sel.columbia.edu/wp-content/uploads/2014/10/SharedSolar.pdf">Project Summary [PDF]</a>
+      <strong>Downloads:</strong><br /><a href="/assets/uploads/blog/2014/10/SharedSolar.pdf">Project Summary [PDF]</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Papers:</strong><br /> <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/Comparing-solar-home-systems-to-a-solar-microgrid-Lee-Shaw-Modi-FINAL.pdf">Comparing solar home systems to a solar microgrid</a><br /> <br /><a href="http://sel.columbia.edu/wp-content/uploads/2013/09/RenewableEnergy_CostVsReliability.pdf">Cost versus reliability sizing strategy for isolated photovoltaic micro-grids in the developing world</a>
+      <strong>Papers:</strong><br /> <a href="/assets/uploads/blog/2013/09/Comparing-solar-home-systems-to-a-solar-microgrid-Lee-Shaw-Modi-FINAL.pdf">Comparing solar home systems to a solar microgrid</a><br /> <br /><a href="/assets/uploads/blog/2013/09/RenewableEnergy_CostVsReliability.pdf">Cost versus reliability sizing strategy for isolated photovoltaic micro-grids in the developing world</a>
     </p>
   </div>
 </div>
@@ -104,7 +104,7 @@ guid: http://sel.columbia.edu/?page_id=4087
             Success Stories
           </h3>
           
-          <img src="http://sel.columbia.edu/wp-content/uploads/2014/10/sharedSolar_success.jpg" alt="sharedSolar_success" /> 
+          <img src="/assets/uploads/blog/2014/10/sharedSolar_success.jpg" alt="sharedSolar_success" />
           
           <p>
           </p>

@@ -13,7 +13,7 @@ tags:
   - Data Collection
   - Data-Driven Planning
 ---
-[<img src="http://sel.columbia.edu/wp-content/uploads/2014/02/TA_training.jpg" alt="TA_training" width="700" height="450" class="alignnone size-full wp-image-3411" />][1] 
+[<img src="/assets/uploads/blog/2014/02/TA_training.jpg" alt="TA_training" width="700" height="450" class="alignnone size-full wp-image-3411" />][1]
 
 Angelique Mahal describes the importance of data driven planning and the process of training users on mobile phone data collection. The trainings marked the start of a mop-up survey effort for our Nigeria Scale Up initiative. Angelique Mahal is a member of the Center on Globalization and Sustainable Development, a collaborator of SEL on the project. This blog was cross posted on [cgsd.columbia.edu][2].
 
@@ -31,5 +31,5 @@ Following this initial training the Zonal Technical Officers and Technical Assis
 
 ##### Written by Angelique Mahal
 
- [1]: http://sel.columbia.edu/wp-content/uploads/2014/02/TA_training.jpg
+ [1]: /assets/uploads/blog/2014/02/TA_training.jpg
  [2]: http://cgsd.columbia.edu/2014/02/20/android-phone-data-collection-for-an-updated-nigeria-mdg-information-system/

@@ -15,7 +15,7 @@ guid: http://sel.columbia.edu/?page_id=4031
     
     <hr />
     
-    <img src="http://sel.columbia.edu/wp-content/uploads/2015/01/pumping_flow.jpg" alt="Water Flowing" width="1763" height="447" />
+    <img src="/assets/uploads/blog/2015/01/pumping_flow.jpg" alt="Water Flowing" width="1763" height="447" />
   </div>
 </div>
 
@@ -52,7 +52,7 @@ guid: http://sel.columbia.edu/?page_id=4031
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads:</strong><br /> <a href="http://sel.columbia.edu/wp-content/uploads/2014/10/SolarIrrigation_PRINT_150305.pdf">Project Summary [PDF]</a>
+      <strong>Downloads:</strong><br /> <a href="/assets/uploads/blog/2014/10/SolarIrrigation_PRINT_150305.pdf">Project Summary [PDF]</a>
     </p></p>
   </div>
 </div>
@@ -72,7 +72,7 @@ guid: http://sel.columbia.edu/?page_id=4031
 
 <div class="row-fluid" style="background:#FFFFFF;">
   <div class="span12">
-    <img src="http://sel.columbia.edu/wp-content/uploads/2014/10/solar_ag_how_it_works.png" alt="solar_ag_how_it_works" width="940" height="437" />
+    <img src="/assets/uploads/blog/2014/10/solar_ag_how_it_works.png" alt="solar_ag_how_it_works" width="940" height="437" />
   </div>
 </div>
 

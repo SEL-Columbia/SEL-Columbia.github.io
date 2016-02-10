@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=68
 permalink: /lister-engine/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/Lister_Engine.jpg
+  - /assets/uploads/blog/2010/04/Lister_Engine.jpg
 categories:
   - News
 tags:

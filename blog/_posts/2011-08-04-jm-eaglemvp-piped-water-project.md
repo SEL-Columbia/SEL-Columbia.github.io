@@ -21,4 +21,4 @@ The group traveled to the Uganda, Rwanda and Kenya MVP sites, taking time to see
 
 The piped water projects visited will serve populations of 38,000 in Uganda, 19,000 in Rwanda and 6,400 Kenya, all aiming to locate a tap within 500 meters of each household within the district. Each tap will be able to provide at least 40L of safe drinking water to each person per day. The UN defines Reasonable access to water as access being not more than 1000 meters from a house to a public stand post or any other improved drinking water source and providing at least 20 liters per capita per day. View the [JMEagle / MVP factsheet][1] to see a summary of all the MVP piped drinking water projects.
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/EI_JMeagle_factsheet.docx
+ [1]: /assets/uploads/blog/2013/06/EI_JMeagle_factsheet.docx

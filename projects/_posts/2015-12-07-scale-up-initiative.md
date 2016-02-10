@@ -54,11 +54,11 @@ guid: http://sel.columbia.edu/?page_id=3472
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads:</strong> <br /><a href="http://sel.columbia.edu/wp-content/uploads/2014/04/NMIS.pdf">Project Summary [PDF]</a>
+      <strong>Downloads:</strong> <br /><a href="/assets/uploads/blog/2014/04/NMIS.pdf">Project Summary [PDF]</a>
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Papers:</strong> <br /> <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/DataDrivenLocalPlanning_Final.pdf">Data-Driven Local Planning at National Scale</a> <br /><br /> <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/CellularCitizenship.pdf">Cellular Citizenship</a> <br /><br /> <a href="http://sel.columbia.edu/wp-content/uploads/2014/04/LessonsOnAuthoringMultipleChoice.pdf">Lessons On Authoring Multiple Choice Survey Questions</a> <br /><br /> <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/LessonsOnEnumeratorTraining.pdf">Lessons On Enumerator Training</a> <br /><br /> <a href="http://sel.columbia.edu/wp-content/uploads/2013/09/LessonsOnAuthoringSurveysScale.pdf">Lessons On Authoring Infrastructure Surveys at Scale</a>
+      <strong>Papers:</strong> <br /> <a href="/assets/uploads/blog/2013/09/DataDrivenLocalPlanning_Final.pdf">Data-Driven Local Planning at National Scale</a> <br /><br /> <a href="/assets/uploads/blog/2013/09/CellularCitizenship.pdf">Cellular Citizenship</a> <br /><br /> <a href="/assets/uploads/blog/2014/04/LessonsOnAuthoringMultipleChoice.pdf">Lessons On Authoring Multiple Choice Survey Questions</a> <br /><br /> <a href="/assets/uploads/blog/2013/09/LessonsOnEnumeratorTraining.pdf">Lessons On Enumerator Training</a> <br /><br /> <a href="/assets/uploads/blog/2013/09/LessonsOnAuthoringSurveysScale.pdf">Lessons On Authoring Infrastructure Surveys at Scale</a>
     </p>
   </div>
 </div>
@@ -73,7 +73,7 @@ guid: http://sel.columbia.edu/?page_id=3472
       Data gathering and analysis
     </h3>
     
-    <img src="http://sel.columbia.edu/wp-content/uploads/2014/04/TA_training.jpg" alt="TA_training" /> 
+    <img src="/assets/uploads/blog/2014/04/TA_training.jpg" alt="TA_training" />
     
     <p class="wp-caption-text" style="line-height:17pt;">
       Technical Assistants using their Android phones during the practical on-the-ground data collection exercise at Dobi Primary School, Gwagwalada LGA, and Federal Capital Territory, Nigeria. (Photo Courtesy of Angelique Mahal)
@@ -117,7 +117,7 @@ guid: http://sel.columbia.edu/?page_id=3472
       NMIS data
     </h3>
     
-    <img src="http://sel.columbia.edu/wp-content/uploads/2014/04/educationMapView.jpg" alt="educationMapView" /> 
+    <img src="/assets/uploads/blog/2014/04/educationMapView.jpg" alt="educationMapView" />
     
     <p class="wp-caption-text" style="line-height:17pt;">
       Education map view displaying number of schools with chalkboards in every classroom in Damban, Bauchi
@@ -129,4 +129,4 @@ guid: http://sel.columbia.edu/?page_id=3472
   </div>
 </div>
 
- [1]: http://sel.columbia.edu/wp-content/uploads/2014/04/nigeria-main.jpg
+ [1]: /assets/uploads/blog/2014/04/nigeria-main.jpg

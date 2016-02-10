@@ -11,7 +11,7 @@ guid: http://sel.columbia.edu/?page_id=3464
       Sustainable Energy Solutions Program in West Africa
     </h2>
     
-    <br /> <img src="http://sel.columbia.edu/wp-content/uploads/2014/04/ecreee-main.jpg" />
+    <br /> <img src="/assets/uploads/blog/2014/04/ecreee-main.jpg" />
   </div>
 </div>
 
@@ -129,7 +129,7 @@ guid: http://sel.columbia.edu/?page_id=3464
     </p>
     
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads: </strong><br /><a href="http://sel.columbia.edu/wp-content/uploads/2014/04/WestAfricanSustainableEnergyProgram.pdf">Project Summary [PDF]</a>
+      <strong>Downloads: </strong><br /><a href="/assets/uploads/blog/2014/04/WestAfricanSustainableEnergyProgram.pdf">Project Summary [PDF]</a>
     </p>
   </div>
 </div>
