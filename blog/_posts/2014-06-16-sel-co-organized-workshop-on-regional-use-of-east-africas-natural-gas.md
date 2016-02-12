@@ -33,6 +33,6 @@ The workshop aimed at a dialogue around the value proposition of gas use to meet
 
 While the industrial economies have pervasive gas infrastructure and the emerging economies of South Asia and China are rapidly building new pipelines, such infrastructure is limited in sub-Saharan Africa. A preliminary techno-economic analysis by Columbia University suggests the value proposition of a gas pipeline corridor in East and South Africa, eventually spanning from Ethiopia to South Africa. Results of the analysis have been presented and discussed at the workshop. The workshop also provided insight from the hydrocarbon industry experts as to the value propositions of piped gas and LNG.
 
- [1]: http://sel.columbia.edu/wp-content/uploads/2014/06/AddisConference21.jpg
- [2]: http://sel.columbia.edu/wp-content/uploads/2014/11/Potential-for-Regional-Use-of-East-Africas-Natural-Gas-SELv7_1_ES.pdf
- [3]: http://sel.columbia.edu/wp-content/uploads/2014/05/Presentation-East-Africas-Natural-Gas-Workshop-Vijay-Modi.pdf
+ [1]: /assets/uploads/blog/2014/06/AddisConference21.jpg
+ [2]: /assets/uploads/blog/2014/11/Potential-for-Regional-Use-of-East-Africas-Natural-Gas-SELv7_1_ES.pdf
+ [3]: /assets/uploads/blog/2014/05/Presentation-East-Africas-Natural-Gas-Workshop-Vijay-Modi.pdf

@@ -11,7 +11,7 @@ categories:
   - News
   - Nigeria Scale-up Initiative
 ---
-<img class="alignnone size-full wp-image-4481" src="http://sel.columbia.edu/wp-content/uploads/2015/04/MV-mapping-KEDCO_BizUnits-v3-jh-2.gif" alt="Animated map" width="720" height="509" /> &nbsp; 
+<img class="alignnone size-full wp-image-4481" src="/assets/uploads/blog/2015/04/MV-mapping-KEDCO_BizUnits-v3-jh-2.gif" alt="Animated map" width="720" height="509" /> &nbsp;
 
 Nigeria faces tremendous challenges with respect to electricity access. A high population and low access rate mean that the country is second only to India in the total number of its citizens without a grid connection. Moreover, since efforts to expand the grid have not kept pace with population growth, the actual rate of access has declined in recent decades.  &nbsp; 
 
@@ -19,7 +19,7 @@ With funding from the World Bank, Columbia University’s Sustainable Engineerin
 
 The first step of this collaboration has been to help the utility take stock of the assets and geographic extent of its system, beginning with the mapping of nearly 10 million meters of medium voltage power lines and related equipment. As a foundation for more detailed and accurate planning, KEDCO, and SEL’s energy planning team worked together to create the first detailed, geospatially referenced map of the electricity infrastructure inherited from the former national utility. The mapping effort [once again][2] leveraged the power of Open Street Maps (OSM) as an open-source, cloud-based, and decentralized mapping tool.  &nbsp; 
 
-<img src="http://sel.columbia.edu/wp-content/uploads/2015/04/action_shots.png" alt="Action Shots" width="585" height="238" class="alignnone size-full wp-image-4503" /> 
+<img src="/assets/uploads/blog/2015/04/action_shots.png" alt="Action Shots" width="585" height="238" class="alignnone size-full wp-image-4503" />
 
 *Left: KEDCO engineers validating, labeling and correcting map data for MV grid infrastructure using OpenStreetMaps editor. Right: A KEDCO engineer in training to map MV line infrastructure using a smartphone.*  &nbsp; 
 
@@ -39,7 +39,7 @@ As this first phase of the collaboration concludes and the next begins, the SEL 
 
 
 
-<img src="http://sel.columbia.edu/wp-content/uploads/2015/04/DSC01927-700x525.jpg" alt="Group Picture" width="700" height="525" class="size-large wp-image-4502" />
+<img src="/assets/uploads/blog/2015/04/DSC01927-700x525.jpg" alt="Group Picture" width="700" height="525" class="size-large wp-image-4502" />
 
 * 
 

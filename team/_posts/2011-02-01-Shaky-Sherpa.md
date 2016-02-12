@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /assets/images/team/shaky.jpg
+photo: /assets/uploads/team/shaky.jpg
 full_name:  Shaky Sherpa
 title: GIS Research Analyst
 email: sherpashaky@gmail.com

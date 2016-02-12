@@ -11,7 +11,7 @@ tags:
   - Energy Planning
   - Mobile
 ---
-<img class="alignnone size-full wp-image-2636" alt="LiberiaElectrification" src="/assets/images/blog/2013/09/LiberiaElectrification.jpg" width="576" height="407" />   
+<img class="alignnone size-full wp-image-2636" alt="LiberiaElectrification" src="/assets/uploads/blog/2013/09/LiberiaElectrification.jpg" width="576" height="407" />   
   
 **Liberia&#8217;s Challenge:** The electricity access rate in Liberia is among the world’s lowest, with less than 3% of the population connected to grid power. This leaves the vast majority of people reliant upon various informal and unreliable systems. <!--more-->The Liberian Electricity Corporation (LEC) and government are quickly trying to change this by expanding access within the capital of Monrovia and some other select rural areas. The question that arises though is exactly how the government ministries and LEC, both with finite resources and time-bound deadlines, should focus their efforts for maximum investment effect. In a nation without much pre-existing infrastructure and an overwhelming unmet demand, this can be both a difficult and non-obvious task not to mention overwhelming. 
 

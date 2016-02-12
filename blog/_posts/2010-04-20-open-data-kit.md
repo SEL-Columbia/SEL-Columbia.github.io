@@ -7,7 +7,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=682
 permalink: /open-data-kit/
 image:
-  - /wp-content/uploads/2010/04/DrissaInterviewing.jpg
+  - /assets/uploads/blog/2010/04/DrissaInterviewing.jpg
 categories:
   - 'Data Collection &amp; Analysis'
   - Papers
@@ -22,4 +22,4 @@ Despite anticipated limitations and a few technical dilemmas that arose during i
 **Download the report:** [ Open Data Kit: Implications for the Use of Smartphone Software Technology for Questionnaire Studies in International Development* (1.56MB)*][2]</li>
 
  [1]: http://code.google.com/p/opendatakit/
- [2]: /wp-content/uploads/2013/06/Open-Data-Kit-Review-Article.pdf
+ [2]: /assets/uploads/blog/2013/06/Open-Data-Kit-Review-Article.pdf

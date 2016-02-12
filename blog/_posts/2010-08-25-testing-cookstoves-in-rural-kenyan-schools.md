@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=1221
 permalink: /testing-cookstoves-in-rural-kenyan-schools/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/08/Peak-Lab-stove-d.jpg
+  - /assets/uploads/blog/2010/08/Peak-Lab-stove-d.jpg
 categories:
   - Biomass Cook Stoves
   - Millenium Villages Project
@@ -18,4 +18,4 @@ tags:
 
 [Download full Paper here: Testing institutional biomass cookstoves in rural Kenyan schools for the Millennium Villages Project][1]
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.pdf
+ [1]: /assets/uploads/blog/2013/06/Adkins-cookstove-Kenya-paper-Energy-for-S.D.-version-8.10.pdf

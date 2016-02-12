@@ -8,7 +8,7 @@ permalink: /welcome-denis-and-chris/
 categories:
   - News
 ---
-<img style="padding-bottom:15px;" src="/assets/images/blog/2013/11/denisandchris.jpg" /> 
+<img style="padding-bottom:15px;" src="/assets/uploads/blog/2013/11/denisandchris.jpg" /> 
 
 The newest members of the Sustainable Engineering Lab are software engineers Denis Papathanasiou and Chris Tan. <!--more-->Denis began his career working on infrastructure projects in Asia. After a stint on Wall Street, he rediscovered software programming, although he still doesn&#8217;t know what he doesn&#8217;t know.
 

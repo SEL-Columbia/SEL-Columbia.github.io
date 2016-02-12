@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /assets/images/team/vijay.jpg
+photo: /assets/uploads/team/vijay.jpg
 full_name:  Vijay Modi
 title: Director
 email: modi@columbia.edu

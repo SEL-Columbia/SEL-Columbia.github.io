@@ -7,7 +7,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=115
 permalink: /gujarat-water-case-study/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/india-crop2.jpg
+  - /assets/uploads/blog/2010/04/india-crop2.jpg
 categories:
   - Gujarat Water Study
 ---

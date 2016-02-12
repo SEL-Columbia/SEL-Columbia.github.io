@@ -12,7 +12,7 @@ tags:
   - Open Source Technology
   - OSM
 ---
-[<img src="/assets/images/blog/2013/06/8882363476_fecc3e7b33_b.jpg" alt="8882363476_fecc3e7b33_b" width="1024" height="550" class="alignnone size-full wp-image-2279" />][1] 
+[<img src="/assets/uploads/blog/2013/06/8882363476_fecc3e7b33_b.jpg" alt="8882363476_fecc3e7b33_b" width="1024" height="550" class="alignnone size-full wp-image-2279" />][1] 
 
 As described in a [previous post][2], our lab undertook a power grid network data acquisition and training project in Indonesia. This data was to be fed into [NetworkPlanner][3] to create a broad electrification plan. A potential by-product of this effort would be a system to maintain and update grid data for PLN, the Indonesian electric utility company.<!--more-->
 
@@ -57,7 +57,7 @@ The one obvious solution to #2 was to deploy our own instance (known as a Fork) 
 
 Given our time constraints, the requirements and our existing tools, we prefer to think that our system evolved via the Goldilocks Principle. With enough architecture and design to provide structure and make data capture efficient, but not so much as to be impractical or introduce delays in the project…i.e. “just right”. 
 
-<img src="/assets/images/blog/2013/06/chris-awayforward-diagram.jpg" alt="chris-awayforward-diagram" width="1016" height="621" class="alignnone size-full wp-image-2217" /> 
+<img src="/assets/uploads/blog/2013/06/chris-awayforward-diagram.jpg" alt="chris-awayforward-diagram" width="1016" height="621" class="alignnone size-full wp-image-2217" /> 
 
 ### Execution {#execution} Once we had a working system, our execution strategy resembled 
 
@@ -67,7 +67,7 @@ Given our time constraints, the requirements and our existing tools, we prefer t
 
 In other words, we tamed Frankenstein with Fire and Motion and cleared our plate of Cartographic Spaghetti with a Fork 😉
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/8882363476_fecc3e7b33_b.jpg
+ [1]: /assets/uploads/blog/2013/06/8882363476_fecc3e7b33_b.jpg
  [2]: http://modi.mech.columbia.edu/data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/
  [3]: http://networkplanner.modilabs.org/
  [4]: http://formhub.org/ "FormHub"

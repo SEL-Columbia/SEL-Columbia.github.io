@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=1367
 permalink: /field-testing-and-survey-evaluation-of-household-biomass-cookstoves-in-rural-sub-saharan-africa/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/09/HouseA8_small.jpg
+  - /assets/uploads/blog/2010/09/HouseA8_small.jpg
 categories:
   - News
 tags:
@@ -18,4 +18,4 @@ This paper presents the results of two studies conducted to evaluate the perform
 
 [Download full paper here][1]
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/04/Adkins_HHstovepaper_9-28-10.pdf
+ [1]: /assets/uploads/blog/2013/04/Adkins_HHstovepaper_9-28-10.pdf

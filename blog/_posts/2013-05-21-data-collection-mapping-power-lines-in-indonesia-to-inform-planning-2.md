@@ -16,7 +16,7 @@ tags:
   - Formhub
   - OSM
 ---
-[<img src="/assets/images/blog/2013/05/EdwinBoatMapping.jpg" alt="EdwinBoatMapping" width="1024" height="578" class="alignnone size-full wp-image-2277" />][1] We are on a boat. It&#8217;s a not-so-atypical workday as we check the number of satellites in the sky visible to our [Android GPS Status app][2] and look up to the surrounding scenery of Alor&#8217;s volcanic calderas surrounding us from the deck of a small fishing boat. <!--more-->It may seem like we are on an exotic vacation but our mission here is one that centers on energy access. Most importantly, we want to understand who has and who does not have electricity access in the Alor archipelago and in turn the entirety of 3 eastern provinces of Indonesia covering nearly 10M people.</p> 
+[<img src="/assets/uploads/blog/2013/05/EdwinBoatMapping.jpg" alt="EdwinBoatMapping" width="1024" height="578" class="alignnone size-full wp-image-2277" />][1] We are on a boat. It&#8217;s a not-so-atypical workday as we check the number of satellites in the sky visible to our [Android GPS Status app][2] and look up to the surrounding scenery of Alor&#8217;s volcanic calderas surrounding us from the deck of a small fishing boat. <!--more-->It may seem like we are on an exotic vacation but our mission here is one that centers on energy access. Most importantly, we want to understand who has and who does not have electricity access in the Alor archipelago and in turn the entirety of 3 eastern provinces of Indonesia covering nearly 10M people.</p> 
 
 Global energy access is an issue we think about a lot. In more industrialized nations, it&#8217;s often easy to take ubiquitous electricity access for granted but it&#8217;s essential for meeting basic lifeline needs and allows for other untold economic, health & development benefits. 
 
@@ -36,7 +36,7 @@ Piecing this very localized and distributed information together quickly put tog
 
 Stay tuned for a follow-up post on the actual tools and systems used for managing, collaborating and consolidating maps of PLN&#8217;s network.
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/05/EdwinBoatMapping.jpg
+ [1]: /assets/uploads/blog/2013/05/EdwinBoatMapping.jpg
  [2]: https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2&hl=en
  [3]: http://en.wikipedia.org/wiki/Perusahaan_Listrik_Negara
  [4]: http://formhub.org

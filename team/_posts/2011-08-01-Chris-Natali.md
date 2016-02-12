@@ -1,6 +1,6 @@
 ---
 layout: page
-photo: /assets/images/team/chris.png
+photo: /assets/uploads/team/chris.png
 full_name:  Chris Natali
 title: Senior Software Engineer
 email: chris.natali.ei@gmail.com
