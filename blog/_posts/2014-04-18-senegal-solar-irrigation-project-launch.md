@@ -56,7 +56,7 @@ Our field technician, Mahécor Diouf, conducted a series of pump tests on four e
 
 How does that compare to a typical gasoline-powered pumping system? Most of the inefficiencies are unavoidable and linked to the inherent inefficiency of thermal engines and impeller limitations, but there is room for improvement. Under ideal conditions, we may find that an optimized system has an overall efficiency of near 13%. This assumes gasoline engine efficiencies on the order of 25%, pump efficiencies on the order of 60%, and friction and minor system losses would consume at least 15% of the remaining energy. And so with one liter of gasoline (raw energy content = 8.9 kWh), we can assume that the maximum energy available at the end of the pipe would be 1.1 kWh. This means that there is room for improvement and we could potentially recover up to 0.9 kWh per liter of gasoline by improving pump efficiency and reducing losses. The impact of those improvements may be further constrained by physical realities such as impeller damage from turbid water and high operating temperatures.
 
- [1]: http://sel.columbia.edu/wp-content/uploads/2014/04/farmersSenegal.jpg
- [2]: http://sel.columbia.edu/wp-content/uploads/2014/04/communitySenegal.jpg
- [3]: http://sel.columbia.edu/wp-content/uploads/2014/04/SenegalPump.jpg
- [4]: http://sel.columbia.edu/wp-content/uploads/2014/04/pumpTestChart.png
+ [1]: /assets/uploads/blog/2014/04/farmersSenegal.jpg
+ [2]: /assets/uploads/blog/2014/04/communitySenegal.jpg
+ [3]: /assets/uploads/blog/2014/04/SenegalPump.jpg
+ [4]: /assets/uploads/blog/2014/04/pumpTestChart.png

@@ -14,6 +14,6 @@ categories:
   * Guide for energy investigation (English): **[Energy Investigation Guide (english)][2]**
   * Guide for energy investigation (French): **[Energy Investigation Guide (french)][3]**
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Energy-Investigation.doc
- [2]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Energy-Investigation-Guide-english.doc
- [3]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/Energy-Investigation-Guide-french.doc
+ [1]: /assets/uploads/blog/2013/06/Energy-Investigation.doc
+ [2]: /assets/uploads/blog/2013/06/Energy-Investigation-Guide-english.doc
+ [3]: /assets/uploads/blog/2013/06/Energy-Investigation-Guide-french.doc

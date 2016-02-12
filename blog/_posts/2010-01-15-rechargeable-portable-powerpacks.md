@@ -7,7 +7,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=290
 permalink: /rechargeable-portable-powerpacks/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/powerpack.jpg
+  - /assets/uploads/blog/2010/04/powerpack.jpg
 categories:
   - LED Lighting
 tags:

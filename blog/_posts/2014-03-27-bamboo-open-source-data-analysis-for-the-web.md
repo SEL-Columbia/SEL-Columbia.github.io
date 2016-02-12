@@ -15,7 +15,7 @@ At the Sustainable Engineering Lab (SEL), we work with governments and Internati
 
 Our experience has led to the unsurprising conclusion that raw data is unhelpful to those in the front lines of development. We’ve learned that to help users, we need easy ways to transform and aggregate data, with statistics and formulas helping sift through what can become unwieldy spreadsheets. An education planner can use a “percentage of untrained teachers in an administrative area” much more effectively than using a raw data file including multitudes of data about hundreds of schools. Such &#8220;indicators&#8221; become the basis of better understanding and decision-making. We built Bamboo to encapsulate the process of creating indicators and calculating their values as soon as data is collected, to be queried on demand.
 
-[<img src="http://sel.columbia.edu/wp-content/uploads/2014/03/bamboo_dev2013-700x525.png" alt="bamboo_dev2013" width="700" height="525" class="alignnone size-large wp-image-3537" />][3] 
+[<img src="/assets/uploads/blog/2014/03/bamboo_dev2013-700x525.png" alt="bamboo_dev2013" width="700" height="525" class="alignnone size-large wp-image-3537" />][3]
 
 #### Bamboo
 
@@ -46,7 +46,7 @@ We have a version of bamboo up on http://bamboo.io, which is for TESTING ONLY. T
 
  [1]: http://formhub.org
  [2]: http://bamboo.io
- [3]: http://sel.columbia.edu/wp-content/uploads/2014/03/Bamboo_Dev2013.pdf
+ [3]: /assets/uploads/blog/2014/03/Bamboo_Dev2013.pdf
  [4]: https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
  [5]: http://mongodb.org
  [6]: http://pandas.pydata.org/

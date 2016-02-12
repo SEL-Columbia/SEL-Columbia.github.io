@@ -2,7 +2,7 @@
 title: 'National Electrification Planning'
 layout: post
 image: None
-link: "http://modi.mech.columbia.edu/wp-content/uploads/2013/09/LiberiaEnergySectorReform_Phase4Report-Final_2013-08.pdf"
+link: "/assets/uploads/blog/2013/09/LiberiaEnergySectorReform_Phase4Report-Final_2013-08.pdf"
 categories:
   - Energy Planning
 ---

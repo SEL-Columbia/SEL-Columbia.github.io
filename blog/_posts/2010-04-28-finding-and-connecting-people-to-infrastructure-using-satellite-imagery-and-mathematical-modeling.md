@@ -7,7 +7,7 @@ layout: post
 guid: http://modi.mech.columbia.edu/?p=705
 permalink: /finding-and-connecting-people-to-infrastructure-using-satellite-imagery-and-mathematical-modeling/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/infrastructure-types-with-border5.jpg
+  - /assets/uploads/blog/2010/04/infrastructure-types-with-border5.jpg
 categories:
   - Energy Planning
   - GIS Remote Sensing
@@ -25,13 +25,13 @@ Our lab combined technical expertise from remote sensing, operations research an
   * Financiers: What are the risk and return on investment?
   * Utility owners: Is it technically and financially feasible?
 
-[<img class="alignnone size-large wp-image-792" title="From remote sensing to geospatial optimization" alt="From remote sensing to geospatial optimization" src="/assets/images/blog/2013/06/triptych-revised-1023x333.png" width="553" height="180" />][2] 
+[<img class="alignnone size-large wp-image-792" title="From remote sensing to geospatial optimization" alt="From remote sensing to geospatial optimization" src="/assets/uploads/blog/2013/06/triptych-revised-1023x333.png" width="553" height="180" />][2] 
 
 **Where do people live?**  The remote sensing component finds where people live using image recognition on satellite imagery. 
 
-[<img class="alignnone size-full wp-image-788" title="Result from scanning our building detector over farmland in Koraro, Ethiopia where red points mark computer guesses and white points mark human guesses" alt="Result from scanning our building detector over farmland in Koraro, Ethiopia where red points mark computer guesses and white points mark human guesses" src="/assets/images/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.jpg" width="646" height="618" />][3] 
+[<img class="alignnone size-full wp-image-788" title="Result from scanning our building detector over farmland in Koraro, Ethiopia where red points mark computer guesses and white points mark human guesses" alt="Result from scanning our building detector over farmland in Koraro, Ethiopia where red points mark computer guesses and white points mark human guesses" src="/assets/uploads/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.jpg" width="646" height="618" />][3] 
 
-Results from the remote sensing component provide a spatial census, enabling us to estimate population density and spread with reasonable accuracy. Different settlement patterns hint at different electrification strategies: sparsely distributed clusters as in Ghana or Mali are good candidates for off-grid technologies such as solar, while larger clusters as in Tanzania justify diesel mini-grids and densely packed Kenya find grid electrification to be cost-effective ([Zvoleff, Kocaman, Huh, Modi 2009][4]). [<img class="alignnone size-large wp-image-782" title="Settlement patterns differ greatly by location, resulting in different electrification strategies for off-grid solar systems, mini-grid diesel systems or grid distribution systems." alt="Settlement patterns differ greatly by location, resulting in different electrification strategies for off-grid solar systems, mini-grid diesel systems or grid distribution systems." src="/assets/images/blog/2013/06/settlement-patterns-1024x768.png" width="614" height="461" />][5] 
+Results from the remote sensing component provide a spatial census, enabling us to estimate population density and spread with reasonable accuracy. Different settlement patterns hint at different electrification strategies: sparsely distributed clusters as in Ghana or Mali are good candidates for off-grid technologies such as solar, while larger clusters as in Tanzania justify diesel mini-grids and densely packed Kenya find grid electrification to be cost-effective ([Zvoleff, Kocaman, Huh, Modi 2009][4]). [<img class="alignnone size-large wp-image-782" title="Settlement patterns differ greatly by location, resulting in different electrification strategies for off-grid solar systems, mini-grid diesel systems or grid distribution systems." alt="Settlement patterns differ greatly by location, resulting in different electrification strategies for off-grid solar systems, mini-grid diesel systems or grid distribution systems." src="/assets/uploads/blog/2013/06/settlement-patterns-1024x768.png" width="614" height="461" />][5] 
 
 The command-line software to perform remote sensing was completed in 2008. We are in the process of optimizing the software to run on [graphical processing units][6] (GPUs) to make the system accessible via web. 
 
@@ -55,7 +55,7 @@ Pedro Sanchez et al. (2007) &#8220;The African Millennium Villages.&#8221; *Proc
 
 Thomas Tufte, Paolo Mefalopulos (2009) *Participatory communication &#8211; a practical guide.* World Bank Working Paper. [[link][1]] 
 
-[<img class="alignnone size-medium wp-image-736" title="The cost of poor planning" alt="The cost of poor planning" src="/assets/images/blog/2013/06/HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.png" width="300" height="207" />][17] 
+[<img class="alignnone size-medium wp-image-736" title="The cost of poor planning" alt="The cost of poor planning" src="/assets/uploads/blog/2013/06/HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.png" width="300" height="207" />][17] 
 
 ### Talks
 
@@ -67,7 +67,7 @@ Thomas Tufte, Paolo Mefalopulos (2009) *Participatory communication &#8211; a pr
 
 [Finding and connecting people in Africa to infrastructure using remote sensing and geospatial optimization][23] O&#8217;Reilly Where 2.0 Conference March 31, 2010 
 
-[<img class="alignnone size-full wp-image-810" title="Locations of the UN Millennium Villages" alt="Locations of the UN Millennium Villages" src="/assets/images/blog/2013/06/UNMillenniumVillagesFromSusanKum-resized.png" width="717" height="554" />][24] 
+[<img class="alignnone size-full wp-image-810" title="Locations of the UN Millennium Villages" alt="Locations of the UN Millennium Villages" src="/assets/uploads/blog/2013/06/UNMillenniumVillagesFromSusanKum-resized.png" width="717" height="554" />][24] 
 
 ### Credits
 
@@ -194,10 +194,10 @@ Thomas Tufte, Paolo Mefalopulos (2009) *Participatory communication &#8211; a pr
 </table>
 
  [1]: http://siteresources.worldbank.org/EXTDEVCOMMENG/Resources/Participatorycommunication.pdf
- [2]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/triptych-revised-1023x333.png
- [3]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.jpg
+ [2]: /assets/uploads/blog/2013/06/triptych-revised-1023x333.png
+ [3]: /assets/uploads/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.jpg
  [4]: http://www.sciencedirect.com/science/article/pii/S0301421509003231
- [5]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/settlement-patterns-1024x768.png
+ [5]: /assets/uploads/blog/2013/06/settlement-patterns-1024x768.png
  [6]: http://en.wikipedia.org/wiki/Graphics_processing_unit
  [7]: http://www.sciencedirect.com/science/article/pii/S0301421509000561
  [8]: https://new.sipa.columbia.edu/academics/programs/mpa-in-development-practice
@@ -209,11 +209,11 @@ Thomas Tufte, Paolo Mefalopulos (2009) *Participatory communication &#8211; a pr
  [14]: http://openlayers.org/
  [15]: http://www.amqp.org
  [16]: http://www.pnas.org/content/104/43/16775.abstract
- [17]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_491.jpg
+ [17]: /assets/uploads/blog/2013/06/20100220-HowPythonIsGuidingInfrastructureConstructionInAfrica_img_491.jpg
  [18]: http://us.pycon.org/2010/conference/schedule/event/97/
- [19]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.png
+ [19]: /assets/uploads/blog/2013/06/HowPythonIsGuidingInfrastructureConstructionInAfrica_img_49.png
  [20]: http://www.earthinstitute.columbia.edu/videos/watch/56
  [21]: http://www.earthinstitute.columbia.edu/videos/watch/5
  [22]: http://www.earthinstitute.columbia.edu/videos/watch/55
  [23]: http://en.oreilly.com/where2010/public/schedule/detail/11162
- [24]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/UNMillenniumVillagesFromSusanKum-resized.png
+ [24]: /assets/uploads/blog/2013/06/UNMillenniumVillagesFromSusanKum-resized.png

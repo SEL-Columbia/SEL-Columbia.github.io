@@ -39,8 +39,8 @@ Lastly, in support of our work in Nigeria and to highlight the launch of [NMIS][
 
 The events created further discussion in the lab and we’re eager to continue our work researching and engineering innovative ways to help achieve sustainable international development.
 
- [1]: http://sel.columbia.edu/wp-content/uploads/2014/09/vijayUN.jpg
- [2]: http://sel.columbia.edu/wp-content/uploads/2014/09/LIYong.jpg
+ [1]: /assets/uploads/blog/2014/09/vijayUN.jpg
+ [2]: /assets/uploads/blog/2014/09/LIYong.jpg
  [3]: http://youtu.be/tgODF3WT_oA
- [4]: http://sel.columbia.edu/wp-content/uploads/2014/09/nigeriaUNevent.jpg
+ [4]: /assets/uploads/blog/2014/09/nigeriaUNevent.jpg
  [5]: http://nmis.mdgs.gov.ng

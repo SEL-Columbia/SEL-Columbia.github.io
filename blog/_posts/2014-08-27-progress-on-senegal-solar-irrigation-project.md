@@ -104,12 +104,12 @@ We continue to work towards a more sustainable tomorrow.
   Jack Bott analyzes and configures the new architecture
 </p>
 
- [1]: http://sel.columbia.edu/wp-content/uploads/2014/08/shakti1.jpg
- [2]: http://sel.columbia.edu/wp-content/uploads/2014/08/shakti.jpg
- [3]: http://sel.columbia.edu/wp-content/uploads/2014/08/shakti_damage.jpg
- [4]: http://sel.columbia.edu/wp-content/uploads/2014/08/shakti_BeforeAfter.jpg
- [5]: http://sel.columbia.edu/wp-content/uploads/2014/08/filtersContactosTerminals.jpg
- [6]: http://sel.columbia.edu/wp-content/uploads/2014/08/shakti_Brett.jpg
- [7]: http://sel.columbia.edu/wp-content/uploads/2014/08/horsePowerInverter.jpg
- [8]: http://sel.columbia.edu/wp-content/uploads/2014/08/dcToAc.jpg
- [9]: http://sel.columbia.edu/wp-content/uploads/2014/08/shakti_Jack.jpg
+ [1]: /assets/uploads/blog/2014/08/shakti1.jpg
+ [2]: /assets/uploads/blog/2014/08/shakti.jpg
+ [3]: /assets/uploads/blog/2014/08/shakti_damage.jpg
+ [4]: /assets/uploads/blog/2014/08/shakti_BeforeAfter.jpg
+ [5]: /assets/uploads/blog/2014/08/filtersContactosTerminals.jpg
+ [6]: /assets/uploads/blog/2014/08/shakti_Brett.jpg
+ [7]: /assets/uploads/blog/2014/08/horsePowerInverter.jpg
+ [8]: /assets/uploads/blog/2014/08/dcToAc.jpg
+ [9]: /assets/uploads/blog/2014/08/shakti_Jack.jpg

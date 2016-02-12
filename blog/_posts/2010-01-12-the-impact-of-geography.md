@@ -6,7 +6,7 @@ layout: post
 guid: http://modi.buildafrica.org/?p=260
 permalink: /the-impact-of-geography/
 image:
-  - http://modi.mech.columbia.edu/wp-content/uploads/2010/04/settlement-patterns1.png
+  - /assets/uploads/blog/2010/04/settlement-patterns1.png
 categories:
   - Energy Planning
 tags:
@@ -18,4 +18,4 @@ The discussion, however, has remained qualitative, and hence it has been difficu
 
 [ Read in full: The Impact of Geography on Energy Infrastructure Cost ][1]
 
- [1]: http://modi.mech.columbia.edu/wp-content/uploads/2013/06/The-Impact-of-Geography-on-Energy-Infrastructure-Cost.pdf
+ [1]: /assets/uploads/blog/2013/06/The-Impact-of-Geography-on-Energy-Infrastructure-Cost.pdf

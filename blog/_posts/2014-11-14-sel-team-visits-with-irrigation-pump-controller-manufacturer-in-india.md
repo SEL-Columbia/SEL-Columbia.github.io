@@ -84,10 +84,10 @@ We also visited a few Indian-based companies who manufacture components that cou
 
 We&#8217;re looking forward to testing the first controller in the field in Potou, Senegal, in December. Then, after incorporating our findings, work will begin on the 2nd and 3rd pilot installations, perhaps with a few new and improved components.
 
- [1]: http://sel.columbia.edu/wp-content/uploads/2014/11/sakthiOwner.jpg
- [2]: http://sel.columbia.edu/wp-content/uploads/2014/11/jackTestingIndia.jpg
- [3]: http://sel.columbia.edu/wp-content/uploads/2014/11/graph1.png
- [4]: http://sel.columbia.edu/wp-content/uploads/2014/11/graph2.png
- [5]: http://sel.columbia.edu/wp-content/uploads/2014/11/graph3.png
- [6]: http://sel.columbia.edu/wp-content/uploads/2014/11/pumpMadurai.jpg
- [7]: http://sel.columbia.edu/wp-content/uploads/2014/11/indiaManufacturing.jpg
+ [1]: /assets/uploads/blog/2014/11/sakthiOwner.jpg
+ [2]: /assets/uploads/blog/2014/11/jackTestingIndia.jpg
+ [3]: /assets/uploads/blog/2014/11/graph1.png
+ [4]: /assets/uploads/blog/2014/11/graph2.png
+ [5]: /assets/uploads/blog/2014/11/graph3.png
+ [6]: /assets/uploads/blog/2014/11/pumpMadurai.jpg
+ [7]: /assets/uploads/blog/2014/11/indiaManufacturing.jpg
