@@ -2,6 +2,7 @@
 id: 629
 title: 'Energy Systems Update &#8211; MVP Potou, Senegal'
 author: Modi Research Group
+post-author: modigroup
 excerpt: 'Energy Systems Update - MVP Potou, Senegal'
 layout: post
 guid: http://modi.buildafrica.org/?p=629

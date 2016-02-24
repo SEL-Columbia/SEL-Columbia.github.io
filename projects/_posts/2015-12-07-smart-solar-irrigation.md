@@ -2,6 +2,7 @@
 id: 4031
 title: Smart Solar Irrigation in Senegal
 author: Candice Heberer
+post-author: caheberer-ei
 layout: page
 guid: http://sel.columbia.edu/?page_id=4031
 ---

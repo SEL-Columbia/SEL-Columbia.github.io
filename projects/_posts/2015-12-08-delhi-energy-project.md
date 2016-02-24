@@ -3,6 +3,7 @@ id: 4231
 title: Delhi Energy Project
 path_title: delhi-energy-project
 author: John Humphrey
+post-author: john-humphrey
 layout: page
 guid: http://sel.columbia.edu/?page_id=4231
 ---

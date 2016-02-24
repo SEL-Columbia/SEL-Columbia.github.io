@@ -2,6 +2,7 @@
 id: 1522
 title: Vijay Modi profiled on Earth Institute website
 author: Modi Research Group
+post-author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1522
 permalink: /vijay-modi-profile-on-earth-institute-website/

@@ -2,6 +2,7 @@
 id: 4424
 title: Nigerian Utility KEDCO Maps 10 Million Meters
 author: Jonathan Carbajal
+author: jonathan
 layout: post
 guid: http://sel.columbia.edu/?p=4424
 permalink: /nigerian-utility-kedco-maps-10-million-meters/

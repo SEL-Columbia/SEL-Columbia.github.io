@@ -2,6 +2,7 @@
 id: 541
 title: Stove Performance in Southwestern Uganda
 author: Modi Research Group
+post-author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=541
 permalink: /stove-performance-in-southwestern-uganda/

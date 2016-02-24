@@ -2,6 +2,7 @@
 id: 30
 title: Network Planner
 author: Modi Research Group
+post-author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=30
 permalink: /network-planner/

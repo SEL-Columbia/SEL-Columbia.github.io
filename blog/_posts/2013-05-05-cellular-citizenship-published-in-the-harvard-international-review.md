@@ -2,6 +2,7 @@
 id: 11
 title: '&#8220;Cellular Citizenship&#8221; published in the Harvard International Review'
 author: Modi Research Group
+post-author: modigroup
 layout: post
 guid: http://modilabs.org/?p=11
 permalink: /cellular-citizenship-published-in-the-harvard-international-review/

@@ -2,6 +2,7 @@
 id: 2052
 title: 'MATLAB Assignment Collection #1'
 author: Matt Zebiak
+post-author: mszebiak
 layout: post
 guid: http://modi.mech.columbia.edu/?p=2052
 permalink: /matlab-assignment-1/

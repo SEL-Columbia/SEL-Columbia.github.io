@@ -2,6 +2,7 @@
 id: 3826
 title: SEL co-organized workshop on regional use of East Africa’s natural gas
 author: Candice Heberer
+post-author: caheberer-ei
 layout: post
 guid: http://sel.columbia.edu/?p=3826
 permalink: /sel-co-organized-workshop-on-regional-use-of-east-africas-natural-gas/

@@ -1,6 +1,7 @@
 ---
 title: Publications
 author: Roger Wong
+post-author: rowo
 layout: default
 ---
 <div>

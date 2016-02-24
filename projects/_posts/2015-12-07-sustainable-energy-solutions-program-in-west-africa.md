@@ -2,6 +2,7 @@
 id: 3464
 title: Sustainable Energy Solutions Program in West Africa
 author: Candice Heberer
+post-author: caheberer-ei
 layout: page
 guid: http://sel.columbia.edu/?page_id=3464
 ---

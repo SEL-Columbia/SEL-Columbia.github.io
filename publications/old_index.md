@@ -2,6 +2,7 @@
 id: 2660
 title: Publications
 author: Roger Wong
+post-author: rowo
 layout: page
 guid: http://modi.mech.columbia.edu/?page_id=2660
 ---

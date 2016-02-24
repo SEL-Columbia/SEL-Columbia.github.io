@@ -2,6 +2,7 @@
 id: 1566
 title: MVP Cookstove Program Wins Special Achievement Award at 2011 Partnership for Clean Indoor Air (PCIA) Forum in Lima, Peru
 author: Modi Research Group
+post-author: modigroup
 layout: post
 guid: http://modi.mech.columbia.edu/?p=1566
 permalink: /mvp-cookstove-program-wins-special-achievement-award-at-2011-partnership-for-clean-indoor-air-pcia-forum-in-lima-peru/

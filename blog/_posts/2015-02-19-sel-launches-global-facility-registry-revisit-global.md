@@ -2,6 +2,7 @@
 id: 4348
 title: SEL launches global facility registry @ revisit.global
 author: John Humphrey
+post-author: john-humphrey
 layout: post
 guid: http://sel.columbia.edu/?p=4348
 permalink: /sel-launches-global-facility-registry-revisit-global/
