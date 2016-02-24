@@ -2,6 +2,7 @@
 id: 320
 title: The Impact of Geography on Energy Infrastructure Costs
 author: Modi Research Group
+post-author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=260
 permalink: /the-impact-of-geography/

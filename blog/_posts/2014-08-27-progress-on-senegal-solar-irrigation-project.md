@@ -2,6 +2,7 @@
 id: 3909
 title: Progress on Senegal Solar Irrigation Project
 author: Candice Heberer
+post-author: caheberer-ei
 layout: post
 guid: http://sel.columbia.edu/?p=3909
 permalink: /progress-on-senegal-solar-irrigation-project/

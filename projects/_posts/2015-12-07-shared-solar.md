@@ -2,6 +2,7 @@
 id: 4087
 title: Shared Solar
 author: Candice Heberer
+post-author: caheberer-ei
 layout: page
 guid: http://sel.columbia.edu/?page_id=4087
 ---

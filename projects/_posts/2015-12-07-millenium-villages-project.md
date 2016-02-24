@@ -2,6 +2,7 @@
 id: 3532
 title: Millenium Villages Project
 author: Candice Heberer
+post-author: caheberer-ei
 layout: page
 guid: http://sel.columbia.edu/?page_id=3532
 ---

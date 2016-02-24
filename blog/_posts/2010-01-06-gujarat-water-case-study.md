@@ -2,6 +2,7 @@
 id: 115
 title: Gujarat Water Case Study
 author: Modi Research Group
+post-author: modigroup
 excerpt: Water tables in the northern regions of the Indian state of Gujarat have been falling over the last three decades by as much as 2.5-3 meters a year in some places. This is raising concerns of irreversible salinization and increasing water costs and well deepening expenses on both farmers and state budgets. We propose a mechanism to reverse the cycle by realigning farmer incentives towards resource conservation and energy efficiency without harming rural livelihoods.
 layout: post
 guid: http://modi.buildafrica.org/?p=115

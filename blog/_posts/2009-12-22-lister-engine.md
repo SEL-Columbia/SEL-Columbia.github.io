@@ -2,6 +2,7 @@
 id: 68
 title: Lister Engine
 author: Modi Research Group
+post-author: modigroup
 layout: post
 guid: http://modi.buildafrica.org/?p=68
 permalink: /lister-engine/

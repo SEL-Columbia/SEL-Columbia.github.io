@@ -2,6 +2,7 @@
 id: 2605
 title: 'Liberia Electrification 2030: Bringing universal electricity access to Liberia'
 author: Jonathan Carbajal
+post-author: jonathan
 layout: post
 guid: http://modi.mech.columbia.edu/?p=2605
 permalink: /liberia-electrification-2030-our-process-to-create-a-plan-for-universal-electricity-access-across-liberia/
