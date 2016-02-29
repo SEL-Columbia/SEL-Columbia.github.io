@@ -41,10 +41,13 @@ navigation:
 - text: jobs
   url: /jobs/
 
+
 # Configurations for Prose
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
+  #rooturl: "SEL-Columbia.github.io"
   #ignore: ['file_a.html', '_config.yml']
+  #siteurl: "http://127.0.0.1:4000/"
   #site:
   #media: ""
   metadata:

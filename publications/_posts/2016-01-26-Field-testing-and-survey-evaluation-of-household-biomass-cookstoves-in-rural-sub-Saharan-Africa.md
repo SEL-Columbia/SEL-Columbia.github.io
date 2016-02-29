@@ -4,5 +4,7 @@ layout: post
 image: None
 link: "http://www.millenniumvillages.org/uploads/ReportPaper/Adkins_HHstovepaper_9-28-101.pdf"
 categories:
+  - Energy Planning
+tags:
   - Household Energy Usage
 ---

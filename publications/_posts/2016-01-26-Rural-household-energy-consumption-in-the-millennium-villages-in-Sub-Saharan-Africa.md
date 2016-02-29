@@ -4,5 +4,7 @@ layout: post
 image: None
 link: "/assets/uploads/blog/2013/09/HouseholdEnergyAfrica.pdf"
 categories:
+  - Energy Planning
+tags:
   - Household Energy Usage
 ---
