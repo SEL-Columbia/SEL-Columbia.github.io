@@ -1,7 +1,7 @@
 ---
 title: 'Products &#038; Tools'
 ---
-## While working on projects that create positive impact in the developing world, we produce open source tools and products that we release for others to use: {#products__tools}
+## While working on projects that create positive impact in the developing world, we produce open tools: {#products__tools}
 {% for post in site.categories.products-tools %}
 <div class="row-fluid products">
   <div class="span12">
