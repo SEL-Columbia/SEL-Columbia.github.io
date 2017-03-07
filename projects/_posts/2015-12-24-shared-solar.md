@@ -89,7 +89,7 @@ summary: "Most rural communities have two options for electrification: wait for 
       
       <p>
         <strong>Economic &#038; Employment</strong> <br /> Income-generating activities like agriculture, entertainment, ice-making, tourism etc can be powered sustainably. Systems can be upgraded when demand grows, ensuring precious capital is used judiciously while at the same time allowing customers and local entrepreneurs to grow their demands as they need without having to upgrade their individual systems.
-      </p></div> </div> 
+      </p> 
       
       <div class="row-fluid">
         <div class="span9">
