@@ -654,7 +654,7 @@ p#cf7_controls {
  * --------------------------------
 */
 .srp-widget-singlepost {
-	border-bottom  : 1px solid #ccc;
+	/*border-bottom  : 1px solid #ccc;*/
 	margin-bottom  : 10px;
 	padding-bottom : 10px;
 }
@@ -803,4 +803,14 @@ p#cf7_controls {
 		margin: 0 0 10px;
 	}
 
+}
+
+/*
+HOMEPAGE
+*/
+
+.mission-box {
+	background:rgba(0, 0, 0, 0.04);
+	margin-bottom: 40px;
+	padding: 0px 30px 10px 30px;
 }

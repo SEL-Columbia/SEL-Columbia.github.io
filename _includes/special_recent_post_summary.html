@@ -4,7 +4,7 @@
       <h4 class="srp-post-title"><a class="srp-post-title-link" href="{{ include.post.url }}" title="{{ include.post.title }}">{{ include.post.title }}</a></h4>
       <p class="srp-post-date">{{ include.post.date | date: "%b %-d, %Y"}}</p>
       <div class="srp-post-content">
-	{{ include.post.content | strip_html | truncatewords: 15 | remove: '...' }}
+	{{ include.post.content | strip_html | truncatewords: 30 | remove: '...' }}
 	<a class="srp-post-stringbreak-link" href="{{ include.post.url }}" title="{{ include.post.title }}">[...]</a>
       </div>
     </div>

@@ -2,6 +2,17 @@
 ---
 <div class = "banner">
   </div>
+
+  <div class="mission-box">
+    <h3>Mission</h3>
+    The Quadracci Sustainable Engineering Lab at the School of Engineering (SEAS) and The Earth Institute, Columbia University uses engineering to help address development issues. We engineer software solutions to help make development planning smarter and to improve the delivery of critical services like health and energy in the developing world.
+  </div>
+
+
+  <div class="row">
+    <div class = "span12" style=>
+      <div class = "row">
+    <div class = "span6">
     {% assign images = site.categories.blog[0].content | split:"<img " %}
     {% for image in images %}
         {% if image contains 'src' %}
@@ -13,7 +24,13 @@
         {% endif %}
     {% endfor %}
     {% assign post = site.categories.blog[0] %}
-    <h3>News:</h3> {% include special_recent_post_summary.html post=post counter=0 %}
+    </div>
+    <div class="span6">
+      <h3>News:</h3> {% include special_recent_post_summary.html post=post counter=0 %}
+    </div>
+    </div>
+    </div>
+    </div>
   <div class = "row">
     <div class = "span12">
       <div class = "row">
