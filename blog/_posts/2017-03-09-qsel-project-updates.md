@@ -23,66 +23,60 @@ Our lab has been busy over the last year. If you're new to some of our projects
 or just want an overview, here are a few introductions:
 </p>
 
+# Acacia Irrigation
 
-<table style="width:100%">
-	<tr>
-		<td>
-      <iframe
-        width="100%"
-        height="500px"
-        src="/assets/uploads/blog/2017/qsel-project-updates/qSEL-AcaciaIrrigation-Brochure-2017.pdf"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-		</td>
-		<td>
-      <iframe
-        width="100%"
-        height="500px"
-        src="/assets/uploads/blog/2017/qsel-project-updates/qSEL-Dokomoforms-Brochure-2017.pdf"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-		</td>
-	</tr>
-  <tr>
-    <td>
-      <iframe
-        width="100%"
-        height="500px"
-        src="/assets/uploads/blog/2017/qsel-project-updates/qSEL-ElectrificationPlanning-Brochure-2017.pdf"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </td>
-    <td>
-      <iframe
-        width="100%"
-        height="500px"
-        src="/assets/uploads/blog/2017/qsel-project-updates/qSEL-NMIS-Brochure-2017.pdf"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <iframe
-        width="100%"
-        height="500px"
-        src="/assets/uploads/blog/2017/qsel-project-updates/qSEL-Quench-Brochure-2017.pdf"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </td>
-    <td>
-      <iframe
-        width="100%"
-        height="500px"
-        src="/assets/uploads/blog/2017/qsel-project-updates/qSEL-SharedSolar-Brochure-2017.pdf"
-        frameborder="0"
-        allowfullscreen>
-      </iframe>
-    </td>
-  </tr>
-</table>
+<p>
+Blurb
+</p>
+
+[Project Update](/assets/uploads/blog/2017/qsel-project-updates/qSEL-AcaciaIrrigation-Brochure-2017.pdf)
+&
+[Project Page](/acacia-irrigation-project)
+
+# Dokomo Forms
+
+<p>
+Blurb
+</p>
+
+[Project Update](/assets/uploads/blog/2017/qsel-project-updates/qSEL-Dokomoforms-Brochure-2017.pdf)
+
+# Electrification Planning
+
+<p>
+Blurb
+</p>
+
+[Project Update](/assets/uploads/blog/2017/qsel-project-updates/qSEL-ElectrificationPlanning-Brochure-2017.pdf)
+
+# NMIS
+
+<p>
+Blurb
+</p>
+
+[Project Update](/assets/uploads/blog/2017/qsel-project-updates/qSEL-NMIS-Brochure-2017.pdf)
+&
+[Project Page](/scale-up-initiative)
+
+# Quench
+
+<p>
+Blurb
+</p>
+
+[Project Update](/assets/uploads/blog/2017/qsel-project-updates/qSEL-Quench-Brochure-2017.pdf)
+&
+[Project Page](/quench)
+
+# Shared Solar
+
+<p>
+Blurb
+</p>
+
+[Project Update](/assets/uploads/blog/2017/qsel-project-updates/qSEL-SharedSolar-Brochure-2017.pdf)
+&
+[Project Page](/shared-solar)
+
+<br>
