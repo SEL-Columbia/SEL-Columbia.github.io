@@ -56,10 +56,10 @@ used Formhub, this is the newest iteration from our lab.
 # Electrification Planning
 
 <p>
-SEL has more than ten years of field work and project implementation experience
+qSEL has more than ten years of field work and project implementation experience
 in the areas of development planning and geo-spatial data gathering in many
 countries in Africa, Southeast Asia, the South Pacific, Latin America, and the
-Caribbean (LAC). The SEL team provides training in many technical aspects of
+Caribbean (LAC). The qSEL team provides training in many technical aspects of
 geo-spatial data gathering and management, including grid and social
 infrastructure mapping, and algorithmic modeling.
 </p>
