@@ -1,4 +1,5 @@
 ---
+leaflet: True
 id: 287
 title: 'A “WAY” FORWARD: How we streamlined power grid data collection with OpenStreetMap'
 author: chris-natali
@@ -76,7 +77,15 @@ Alongside PLN staff, we captured over 700km of medium-voltage line data and more
 
 In other words, we tamed Frankenstein with Fire and Motion and cleared our plate of Cartographic Spaghetti with a Fork 😉
 
-<iframe width="100%" height="500px" frameBorder="0" src="http://a.tiles.mapbox.com/v3/modilabs.pln_gridmaps.html?secure"></iframe>
+<div id="map"></div>
+<script>
+  var map = L.map('map').setView([-8.4697, 125.0353], 5);
+  L.tileLayer('https://s3.amazonaws.com/seltiles/modilabs.pln_gridmaps/{z}/{x}/{y}.png', {
+    maxBounds:L.latLngBounds(L.latLng(-24.7444, 92.7795), L.latLng(16.2384, 174.8693)),
+    minZoom: 3,
+    maxZoom: 12
+  }).addTo(map);
+</script>
 
  [1]: /assets/uploads/blog/2013/06/8882363476_fecc3e7b33_b.jpg
  [2]: http://sel.columbia.edu/data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/

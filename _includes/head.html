@@ -14,4 +14,8 @@
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.leaflet %}
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js"></script>
+  {% endif %}
 </head>

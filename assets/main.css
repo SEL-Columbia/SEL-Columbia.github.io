@@ -814,3 +814,7 @@ HOMEPAGE
 	margin-bottom: 40px;
 	padding: 0px 30px 10px 30px;
 }
+
+#map {
+  height:500px;
+}
