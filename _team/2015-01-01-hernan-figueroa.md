@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/hernan.jpg
 full_name: Hernan Figueroa
 position: Associate Research Scientist
