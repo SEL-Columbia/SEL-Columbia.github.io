@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/meredith.jpg
 full_name:  Meredith Coulis
 position: Software Engineer
