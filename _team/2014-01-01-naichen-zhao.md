@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/naichen.jpg
 full_name:  Naichen Zhao
 position: Energy Planning Engineer
