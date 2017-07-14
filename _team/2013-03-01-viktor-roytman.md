@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/viktor.jpg
 full_name:  Viktor Roytman
 position: Software Engineer
