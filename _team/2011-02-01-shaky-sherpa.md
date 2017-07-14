@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/shaky.jpg
 full_name:  Shaky Sherpa
 position: Senior GIS Research Analyst
