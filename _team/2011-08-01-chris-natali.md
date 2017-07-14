@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/chris.png
 full_name:  Chris Natali
 position: Senior Software Engineer
