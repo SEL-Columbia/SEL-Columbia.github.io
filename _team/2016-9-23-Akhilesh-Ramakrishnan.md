@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/akhilesh.jpg
 full_name: Akhilesh Ramakrishnan
 position: Graduate Student (MS Track)
