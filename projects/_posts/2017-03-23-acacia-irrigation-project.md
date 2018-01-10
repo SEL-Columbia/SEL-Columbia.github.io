@@ -53,6 +53,8 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
 
       <p class="wp-caption-text" style="line-height:17pt;">
         <strong>Downloads:</strong><br /> <a href="/assets/uploads/blog/2014/10/SolarIrrigation_PRINT_150305.pdf">Project Summary [PDF]</a>
+        <br>
+        <a href="/assets/uploads/blog/2017/qsel-project-updates/qSEL-AcaciaIrrigation-Brochure-2017.pdf">Project Update [PDF]</a>
       </p>
     </div>
   </div>
