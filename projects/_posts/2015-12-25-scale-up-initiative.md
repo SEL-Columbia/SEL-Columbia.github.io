@@ -43,7 +43,7 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong> <br /><a href="http://nmis.mdgs.gov.ng" title="Nigeria MDG Information System" target="_blank">NMIS</a><br /><a href="/tags/#Nigeria Scale-up Initiative"> Related Blog Entries </a>
+      <strong>Links:</strong> <br /><!-- broken link <a href="http://nmis.mdgs.gov.ng" title="Nigeria MDG Information System" target="_blank">NMIS</a><br />--><a href="/tags/#Nigeria Scale-up Initiative"> Related Blog Entries </a>
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
