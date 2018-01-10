@@ -1,4 +1,5 @@
 ---
+published: true
 title: Planning access to electricity under the SEforAll initiative in Ecuador
 tags:
   - Data Collection
