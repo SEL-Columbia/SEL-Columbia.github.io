@@ -17,6 +17,3 @@ In the last week of August 2017, IADB held a conference in conjunction with the 
 <p>
 The utility business was historically hardware driven, where utilities generated power and hoped it reached the customer. They metered consumption at the home, and replaced resources when failure was reported by the customer. Over the last decade a lot has changed, how measurements are made, what types of generation are widespread, and the price of monitoring equipment. Through digitization it is now possible to repair equipment before it breaks, utilize more renewable sources, and maintain large grid networks with fewer people.
 </p>
-
-Summary Report:
-[How ICT is poised to transform delivery of energy services](/assets/uploads/blog/2018/cutting-edge-workshop/iadb_conference_document_11_10_2017.pdf)

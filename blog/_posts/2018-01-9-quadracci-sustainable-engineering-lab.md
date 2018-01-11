@@ -10,7 +10,7 @@ tags:
 ![Vijay](/assets/uploads/blog/2018/quadracci-sustainable-engineering-lab/vijay.jpg)
 
 <p>
-In 2017 The Sustainable Engineering Lab had its official relaunch as the The Quadracci Sustainable Engineering Laboratory. The name change followed a generous supporting donation from the Quadracci family.
+In 2017 The Sustainable Engineering Lab had its official relaunch as the The Quadracci Sustainable Engineering Laboratory. The name change followed a generous supporting donation from the Quadracci family and <a href="https://www.windhoverfoundation.org/">The Windhover Foundation</a>.
 </p>
 
 <p>
