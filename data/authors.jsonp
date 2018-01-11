@@ -1,6 +1,6 @@
 ---
 ---
-{% assign sorted_team = (site.team | sort:"full_name") %}
+{% assign sorted_team = site.team | sort:"full_name" %}
 {% capture authors %}
   {% for member in sorted_team %}
     {% if member.url != "/team/template/" %}

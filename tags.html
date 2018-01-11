@@ -10,7 +10,7 @@ Like http://blog.meinside.pe.kr/Adding-tag-cloud-and-archives-page-to-Jekyll/
     {% for tag in sorted_tags %}
         <a href="#{{ tag | first | slugize }}">#{{ tag | first }}</a>
     {% endfor %}
-    
+
     <h3>Listing</h3>
     {% for tag in sorted_tags %}
         {% assign tag_name = tag | first %}
