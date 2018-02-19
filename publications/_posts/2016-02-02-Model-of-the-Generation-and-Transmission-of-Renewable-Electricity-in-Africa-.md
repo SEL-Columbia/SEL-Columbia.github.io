@@ -1,9 +1,9 @@
 ---
-title: 'Model of the Generation and Transmission of Renewable Electricity in Africa '
+title: 'The Economics of Clean Energy Resource Development and Grid Interconnection in Africa'
 image: None
-link: "http://www.sciencedirect.com/science/article/pii/S0960148113004199"
+link: "/assets/uploads/blog/2016/publications/the-economics-of-clean-energy-resource-development-and-grid-interconnection-in-africa.pdf"
 tags:
-  - Energy Planning
+  - Renewable Integration
 ---
 
- The economics of clean energy resource development and grid interconnection in Africa
+Model of the generation and transmission of renewable electricity in Africa

@@ -1,7 +1,7 @@
 ---
-title: 'Using SMS to monitor Malaria in Uganda '
+title: 'Using SMS to monitor Malaria in Uganda'
 image: None
-link: "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122339/"
+link: "/assets/uploads/blog/2016/publications/use-of-an-innovative-affordable-and-open-source-short-message-service-based-tool-to-monitor-malaria-in-remote-areas-of-uganda.pdf"
 tags:
   - Data Collection
 ---

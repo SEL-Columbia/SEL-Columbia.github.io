@@ -3,5 +3,6 @@ title: 'Cost versus reliability sizing strategy for isolated photovoltaic micro-
 image: None
 link: "/assets/uploads/blog/2013/09/RenewableEnergy_CostVsReliability.pdf"
 tags:
-  - Energy Planning
+  - Innovations in Electricity Access
+  - Shared Solar
 ---

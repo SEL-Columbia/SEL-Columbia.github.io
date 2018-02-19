@@ -3,8 +3,8 @@ title: 'Examination of the optimal operation of building scale combined heat and
 image: None
 link: "/assets/uploads/blog/2016/publications/examination-of-optimal-operation.pdf"
 tags:
-  - Energy Planning
+  - Renewable Integration
 ---
 
-Elucidates notions concerning the ideal operation and greenhouse 
+Elucidates notions concerning the ideal operation and greenhouse
 gas (GHG) emissions benefits of combined heat and power (CHP) systems

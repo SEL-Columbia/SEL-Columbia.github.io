@@ -3,6 +3,7 @@ title: 'Experimental and analytical investigation of hydronic system retrofits i
 image: None
 link: "/assets/uploads/blog/2016/publications/hydronic-system.pdf"
 tags:
-  - Energy Planning
+  - Geospatial Planning
 ---
+
 Investigation of the pumping energy requirements of a 23-story residential building in NYC
