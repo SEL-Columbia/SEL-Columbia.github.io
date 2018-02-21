@@ -2,6 +2,7 @@
 title: Publications
 author: roger-wong
 ---
+
 <div>
   <h2 id="products__tools">Publications</h2>
 
@@ -98,5 +99,7 @@ author: roger-wong
       {% endfor %}
     </ul>
   </div>
+
+  <h3><a href="https://scholar.google.com/citations?hl=en&user=yIectxQAAAAJ">Google Scholars Profile</a></h3>
 
 </div>
