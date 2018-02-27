@@ -3,7 +3,7 @@ title: 'Modeling wind power curtailment with increased capacity in a regional el
 image: None
 link: "/assets/uploads/blog/2016/publications/modeling-wind-power-curtailment.pdf"
 tags:
-  - Energy Planning
+  - Renewable Integration
 ---
 
 Targeted, modest transmission upgrades can significantly reduce wind curtailment.

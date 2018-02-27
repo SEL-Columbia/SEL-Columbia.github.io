@@ -1,9 +1,10 @@
 ---
 title: 'The Rise of the Personal Power Plant'
 image: None
-link: "http://spectrum.ieee.org/energy/the-smarter-grid/the-rise-of-the-personal-power-plant"
+link: "/assets/uploads/blog/2016/publications/the-rise-of-the-personal-power-plant.pdf"
 tags:
-  - Energy Planning
+  - Innovations in Electricity Access
+  - Shared Solar
 ---
 
 Smart and agile power systems will let every home and business generate, store, and share electricity

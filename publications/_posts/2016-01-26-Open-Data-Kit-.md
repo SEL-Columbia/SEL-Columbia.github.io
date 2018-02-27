@@ -1,5 +1,5 @@
 ---
-title: 'Open Data Kit '
+title: 'Open Data Kit'
 image: None
 link: "/assets/uploads/blog/2013/06/Open-Data-Kit-Review-Article.pdf"
 tags:

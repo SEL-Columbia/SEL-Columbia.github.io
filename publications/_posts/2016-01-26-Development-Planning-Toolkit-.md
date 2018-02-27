@@ -1,9 +1,9 @@
 ---
-title: 'Development Planning Toolkit '
+title: 'Development Planning Toolkit'
 image: None
-link: "http://sel.columbia.edu/dpt/"
+link: "http://qsel.columbia.edu/development-planning-toolkit/"
 tags:
-  - Infrastructure
+  - ICT Energy
 ---
 
  A guide on using data to plan smarter infrastructure

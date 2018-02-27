@@ -8,6 +8,7 @@ location: Senegal
 related_blog_entries: /tags#Acacia Irrigation
 redirect_from:
   - /smart-solar-irrigation/
+  - /acacia-irrigation
 summary: "Irrigation of crops is critical to agricultural success, but in Senegal, this task is usually done by hand and can take all day. High fuel costs make gasoline pumps unaffordable and initial investment costs of stand-alone solar are too high for small scale farmers. The Sustainable Engineering Lab, as part of <a href=\"http://www.poweringag.org/\">Powering Agriculture: An Energy Grand Challenge for Development Initiative</a>, is piloting research in the <a href=\"http://millenniumvillages.org/\">Millennium Village</a> of Potou, to reduce the price of energy for farmers by introducing solar PV as a reliable and cost-effective alternative. The grant is supported by the U.S. Agency for International Development (USAID) the Swedish Government, Duke Energy, and the German Organization for International Cooperation (GIZ)."
 ---
 <div class="row-fluid">
@@ -33,30 +34,41 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
     </p>
   </div>
 
-  <div class="row-fluid">
-    <div class="span3">
-      <p class="wp-caption-text" style="line-height:17pt;">
-        <strong>Project Type:</strong> Sustainable Energy
-      </p>
+  <br />
+  <div class="span3">
+    <p class="wp-caption-text" style="line-height:17pt;">
+      <strong>Project Type:</strong> Sustainable Energy
+    </p>
 
-      <p class="wp-caption-text" style="line-height:17pt;">
-        <strong>Location:</strong> Potou, Senegal
-      </p>
+    <p class="wp-caption-text" style="line-height:17pt;">
+      <strong>Location:</strong> Potou, Senegal
+    </p>
 
-      <p class="wp-caption-text" style="line-height:17pt;">
-        <strong>Partners:</strong><br /><a href="http://www.usaid.gov" title="USAID" target="_blank">U.S. Agency for International Development (USAID)</a>, the <a href="http://www.government.se" title="Swedish Government" target="_blank">Swedish Government</a>, <a href="http://www.duke-energy.com" title="Duke Energy" target="_blank">Duke Energy</a>, and the <a href="http://www.giz.de/en/" title="GIZ" target="_blank">German Organization for International Cooperation (GIZ)</a>
-      </p>
+    <p class="wp-caption-text" style="line-height:17pt;">
+      <strong>Partners:</strong><br />
+      Coopérative Agricole de Potou<br />
+      <a href="http://www.millenniumpromise.org/" title="Millennium Promise" target="_blank">Millennium Promise</a><br />
+      <a href="http://www.usaid.gov" title="The U.S. Agency for International Development" target="_blank">USAID</a><br />
+      <a href="https://www.sida.se/English/" title="The Swedish International Development Cooperation Agency" target="_blank">SIDA</a><br />
+      <a href="http://www.duke-energy.com" title="Duke Energy" target="_blank">Duke Energy</a><br />
+      <a href="http://www.giz.de/en/" title="The German Organization for International Cooperation" target="_blank">GIZ</a>
+    </p>
 
-      <p class="wp-caption-text" style="line-height:17pt;">
-        <strong>Links:</strong><br /><a href="/tags#Acacia Irrigation"> Related Blog Entries</a>
-      </p>
+    <p class="wp-caption-text" style="line-height:17pt;">
+      <strong>Links:</strong><br />
+      <a href="http://acaciairrigation.org/" title="Acacia Irrigation" target="_blank">acaciairrigation.org</a><br />
+    </p>
 
-      <p class="wp-caption-text" style="line-height:17pt;">
-        <strong>Downloads:</strong><br /> <a href="/assets/uploads/blog/2014/10/SolarIrrigation_PRINT_150305.pdf">Project Summary [PDF]</a>
-        <br>
-        <a href="/assets/uploads/blog/2017/qsel-project-updates/qSEL-AcaciaIrrigation-Brochure-2017.pdf">Project Update [PDF]</a>
-      </p>
-    </div>
+    <p class="wp-caption-text" style="line-height:17pt;">
+      <strong>Menu:</strong><br />
+      <a href="#HowItWorks">How It Works</a><br />
+      <a href="#Benefits">Benefits</a><br />
+      <a href="#Innovations">Project Innovations</a><br />
+      <a href="#Timeline">Project Timeline</a><br />
+      <a href="#Papers">Papers</a><br />
+      <a href="/tags#Acacia Irrigation"> Related Blog Entries</a>
+    </p>
+
   </div>
 </div>
 
@@ -69,6 +81,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
 
 <div class="row-fluid" style="background:#FFFFFF;">
   <div class="span12">
+    <a id="HowItWorks"></a>
     <img src="/assets/uploads/blog/2014/10/solar_ag_how_it_works.png" alt="solar_ag_how_it_works" width="940" height="437" />
   </div>
 </div>
@@ -93,10 +106,9 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
   </div>
 </div>
 
-
-
 <div class="row-fluid">
-  <div class="span9">
+  <div class="span12">
+    <a id="Benefits"></a>
     <h3>
       Benefits
     </h3>
@@ -109,86 +121,107 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
       <strong>Environmental Savings</strong> <br /> The gasoline-powered pumps produce approximately 2.4kg of CO2 per liter of gasoline—0.24 tons of CO2 in a typical 100-day season per farmer. Additionally, fuel spills are common. Switching to solar will eliminate both sources of pollution.
     </p>
 
+  </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span12">
+
+    <hr />
+
+    <a id="Innovations"></a>
+
+    <h3>
+      Project Innovations
+    </h3>
+
     <p>
-      <p />
+      <strong>Grid compatible AC pumps</strong> <br /> Unlike DC, not only are AC pumps compatible with a future grid connection, but excess AC power could be a potential and profitable energy supply for domestic and commercial customers, who use AC versus DC appliances.
+    </p>
 
-      <h3>
-        Project Innovations
-      </h3>
+    <p>
+      <strong>Distribution of electricity to decentralized pumps</strong> <br /> Centralized electricity production, with decentralized distribution allows farmers to retain autonomy of their own wells and pumps and creates a model for micro-utilities that can be scaled up beyond irrigation to meet other demand.
+    </p>
 
-      <p>
-        <strong>Grid compatible AC pumps</strong> <br /> Unlike DC, not only are AC pumps compatible with a future grid connection, but excess AC power could be a potential and profitable energy supply for domestic and commercial customers, who use AC versus DC appliances.
-      </p>
+    <p>
+      <strong>Battery-less systems </strong> <br /> The system is built without the need for a battery to keep capital and recurring costs low. To do this, SEL collaborated with an Indian manufacturer to engineer a low-cost alternative to standard inverters. The new inverter is designed to work in off-grid markets such as our pilot site, Potou, Senegal.
+    </p>
 
-      <p>
-        <strong>Distribution of electricity to decentralized pumps</strong> <br /> Centralized electricity production, with decentralized distribution allows farmers to retain autonomy of their own wells and pumps and creates a model for micro-utilities that can be scaled up beyond irrigation to meet other demand.
-      </p>
+  </div>
+</div>
 
-      <p>
-        <strong>Battery-less systems </strong> <br /> The system is built without the need for a battery to keep capital and recurring costs low. To do this, SEL collaborated with an Indian manufacturer to engineer a low-cost alternative to standard inverters. The new inverter is designed to work in off-grid markets such as our pilot site, Potou, Senegal.
-      </p>
+<div class="row-fluid">
+  <div class="span12">
 
-      <div class="row-fluid">
-        <div class="span9">
-          <hr />
+    <hr />
+    <a id="Timeline"></a>
 
-          <h3>
-            Project Timeline
-          </h3>
+    <h3>Project Timeline</h3>
 
-          <h3>
-            2013
-          </h3>
+    <h3>2013</h3>
 
-          <p>
-            <strong>October</strong> <br /> USAID awards SEL with $1.1M innovation grant <a href="/usaid-awards-1-1m-innovation-grant-to-sel-for-smart-solar-irrigation-pilot-in-senegal/"> [Blog Entry] </a>
-          </p>
+    <p>
+      <strong>October</strong> <br /> USAID awards SEL with $1.1M innovation grant <a href="/usaid-awards-1-1m-innovation-grant-to-sel-for-smart-solar-irrigation-pilot-in-senegal/"> [Blog Entry] </a>
+    </p>
 
-          <p>
-          </p>
+    <p></p>
 
-          <p>
-            <strong>November</strong> <br /> Preliminary visit by SEL team to Senegal to select the beneficiary community and identify potential technical partners
-          </p>
+    <p>
+      <strong>November</strong> <br /> Preliminary visit by SEL team to Senegal to select the beneficiary community and identify potential technical partners
+    </p>
 
-          <p>
-          </p>
+    <p></p>
 
-          <h3>
-            2014
-          </h3>
+    <h3>2014</h3>
 
-          <p>
-            <strong>January / February</strong> <br /> Local launch of project and community meetings <a href="/senegal-solar-irrigation-project-launch/"> [Blog Entry] </a>
-          </p>
+    <p>
+      <strong>January / February</strong> <br /> Local launch of project and community meetings <a href="/senegal-solar-irrigation-project-launch/"> [Blog Entry] </a>
+    </p>
 
-          <p>
-          </p>
+    <p></p>
 
-          <p>
-            <strong>June</strong> <br /> Arrival of pump controller in NY for testing <a href="/progress-on-senegal-solar-irrigation-project/"> [Blog Entry] </a> <br /> <a href="/watch-the-pump-controller-demo-for-sels-solar-irrigation-project-in-senegal/">Watch demo </a>
-          </p>
+    <p>
+      <strong>June</strong> <br /> Arrival of pump controller in NY for testing <a href="/progress-on-senegal-solar-irrigation-project/"> [Blog Entry] </a> <br /> <a href="/watch-the-pump-controller-demo-for-sels-solar-irrigation-project-in-senegal/">Watch demo </a>
+    </p>
 
-          <p>
-          </p>
+    <p></p>
 
-          <p>
-            <strong>October</strong> <br /> Pump controller shipped to Senegal for pilot testing <a href="https://twitter.com/sel_columbia/status/532641304589901825"> [Picture tweet] </a>
-          </p>
+    <p>
+      <strong>October</strong> <br /> Pump controller shipped to Senegal for pilot testing <a href="https://twitter.com/sel_columbia/status/532641304589901825"> [Picture tweet] </a>
+    </p>
 
-          <p>
-          </p>
+    <p></p>
 
-          <p>
-            <strong>October / November</strong> <br /> SEL team travels to India to meet with pump controller manufacturer and other potential suppliers of pumps, solar tracking units and smart meters. <a href="/sel-team-visits-with-irrigation-pump-controller-manufacturer-in-india/" title="SEL team visits with irrigation pump controller manufacturer in India"> [Blog Entry] </a>
-          </p>
+    <p>
+      <strong>October / November</strong> <br /> SEL team travels to India to meet with pump controller manufacturer and other potential suppliers of pumps, solar tracking units and smart meters. <a href="/sel-team-visits-with-irrigation-pump-controller-manufacturer-in-india/" title="SEL team visits with irrigation pump controller manufacturer in India"> [Blog Entry] </a>
+    </p>
 
-          <p>
-            <strong>December</strong> <br /> Installation of solar PV array and pump testing <a href="/solar-powered-agricultural-water-pumping-system-is-up-and-running-in-senegal/" title="Solar powered Agricultural water pumping system is up and running in Senegal!"> [Blog Entry] </a>
+    <p>
+      <strong>December</strong> <br /> Installation of solar PV array and pump testing <a href="/solar-powered-agricultural-water-pumping-system-is-up-and-running-in-senegal/" title="Solar powered Agricultural water pumping system is up and running in Senegal!"> [Blog Entry] </a>
+    </p>
 
-            <h3>
-              2015
-            </h3>
+    <h3>2015</h3>
 
-            <p>
-              <strong>February</strong><br /> Farmers begin using solar PV irrigation system <br />
+    <p>
+      <strong>February</strong><br /> Farmers begin using solar PV irrigation system <br />
+    </p>
+
+  </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <hr />
+    <a id="Papers"></a>
+    <h3>Papers</h3>
+    <p>
+      <div style="list-style-type:none">
+        {% for post in site.categories.publications %}
+          {% if post.tags contains 'Acacia Irrigation' %}
+            {% include publication_listing.html post=post %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </p>
+  </div>
+</div>

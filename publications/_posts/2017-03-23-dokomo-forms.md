@@ -5,4 +5,5 @@ link: "/assets/uploads/blog/2017/qsel-project-updates/qSEL-Dokomoforms-Brochure-
 tags:
   - Data Collection
 ---
+
 Offline-capable mobile data collection

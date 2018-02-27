@@ -35,24 +35,35 @@ summary: "Most rural communities have two options for electrification: wait for 
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong><br /> <a href="http://sharedsolar.org" title="Sharedsolar" target="_blank">sharedsolar.org</a><br /><a href="/tags/#Shared Solar"> Related Blog Entries</a>
+      <strong>Partners:</strong><br />
+      Ruhiira Water and Energy Coop<br />
+      Nyamuyanja Water and Energy Coop<br />
+      Murema Water and Energy Coop<br />
+      <a href="http://www.millenniumpromise.org/" title="Millennium Promise" target="_blank">Millennium Promise</a><br />
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads:</strong><br /><a href="/assets/uploads/blog/2014/10/SharedSolar.pdf">Project Summary [PDF]</a>
-      <br>
-      <a href="/assets/uploads/blog/2017/qsel-project-updates/qSEL-SharedSolar-Brochure-2017.pdf">Project Update [PDF]</a>
+      <strong>Links:</strong><br />
+      <a href="http://sharedsolar.org" title="Sharedsolar" target="_blank">sharedsolar.org</a><br />
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Papers:</strong><br /> <a href="/assets/uploads/blog/2013/09/Comparing-solar-home-systems-to-a-solar-microgrid-Lee-Shaw-Modi-FINAL.pdf">Comparing solar home systems to a solar microgrid</a><br /> <br /><a href="/assets/uploads/blog/2013/09/RenewableEnergy_CostVsReliability.pdf">Cost versus reliability sizing strategy for isolated photovoltaic micro-grids in the developing world</a>
+      <strong>Menu:</strong><br />
+      <a href="#HowItWorks">How It Works</a><br />
+      <a href="#Benefits">Benefits</a><br />
+      <a href="#SuccessStories">Success Stories</a><br />
+      <a href="#Papers">Papers</a><br />
+      <a href="/tags/#Shared Solar"> Related Blog Entries</a>
     </p>
+
   </div>
 </div>
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="span12">
     <hr />
+
+    <a id="HowItWorks"></a>
 
     <h3>
       How it works
@@ -71,8 +82,10 @@ summary: "Most rural communities have two options for electrification: wait for 
 
 
 <div class="row-fluid">
-  <div class="span9">
+  <div class="span12">
     <hr />
+
+    <a id="Benefits"></a>
 
     <h3>
       Benefits
@@ -94,6 +107,8 @@ summary: "Most rural communities have two options for electrification: wait for 
         <div class="span9">
           <hr />
 
+          <a id="SuccessStories"></a>
+
           <h3>
             Success Stories
           </h3>
@@ -108,3 +123,20 @@ summary: "Most rural communities have two options for electrification: wait for 
           </p>
         </div>
       </div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <hr />
+    <a id="Papers"></a>
+    <h3>Papers</h3>
+    <p>
+      <div style="list-style-type:none">
+        {% for post in site.categories.publications %}
+          {%if post.tags contains 'Shared Solar' %}
+            {% include publication_listing.html post=post %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </p>
+  </div>
+</div>

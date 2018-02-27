@@ -1,7 +1,8 @@
 ---
 title: 'Field testing and survey evaluation of household biomass cookstoves in rural sub-Saharan Africa'
 image: None
-link: "http://www.millenniumvillages.org/uploads/ReportPaper/Adkins_HHstovepaper_9-28-101.pdf"
+link: "/assets/uploads/blog/2010/07/field-testing-and-survey-evaluation-of-household-biomass-cookstoves-in-rural-sub-Saharan-Africa.pdf"
 tags:
-  - Household Energy Usage
+  - Cookstoves
+  - Millennium Villages Project
 ---
