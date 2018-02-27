@@ -37,7 +37,7 @@ summary: "The portable PowerPack has multiple potential uses but was primarily d
     <p class="wp-caption-text" style="line-height:17pt;">
       <strong>Menu:</strong><br />
       <a href="#Papers">Papers</a><br />
-      <a href="/tags#Acacia Irrigation"> Related Blog Entries</a>
+      <a href="/tags/#PowerPack"> Related Blog Entries</a>
     </p>
 
   </div>

@@ -1,6 +1,6 @@
 ---
 title: Spatial Planner
-image-link: https://github.com/SEL-Columbia/NeXT
+image-link: /spatial-planner
 image-source: /assets/uploads/blog/2013/08/spatialplanner.png
 image-alt: spatialplanner
 image-height: 112

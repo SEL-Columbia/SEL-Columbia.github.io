@@ -4,6 +4,7 @@ author: candice-heberer
 type: Sustainable Energy
 image: /assets/uploads/blog/2013/05/naturalGasEastAfrica.jpg
 main_link: /potential-for-regional-use-of-east-africas-natural-gas-2/
+related_blog_entries: /tags/#Natural Gas
 location: Mozambique, Tanzania
 summary: "Natural gas is a growing share in the global primary energy mix—currently representing 21%—and quickly gaining importance in the developing world. While this resource is already being exploited at relatively large scale in some sub-Saharan countries, the majority is exported outside of the continent with limited domestic use. In recent years, huge offshore natural gas resources have been identified in East Africa (Mozambique and Tanzania). This represents a significant primary energy resource and offers the possibility to support both economic growth and much needed energy access in the region. Natural gas can potentially play an important role in the energy mix for various uses like cooking, power generation, transport and fertilizer manufacture."
 ---
