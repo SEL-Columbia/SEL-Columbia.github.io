@@ -4,7 +4,7 @@ layout: page
 {% comment %}
 Like http://blog.meinside.pe.kr/Adding-tag-cloud-and-archives-page-to-Jekyll/
 {% endcomment %}
-{% assign sorted_tags = (site.tags | sort: 0) %}
+{% assign sorted_tags = site.tags | sort:title %}
 <div class="container">
     <h3>Tags</h3>
     {% for tag in sorted_tags %}

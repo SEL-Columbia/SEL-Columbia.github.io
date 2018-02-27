@@ -14,7 +14,7 @@ description: >
   computational techniques and emerging technologies.
 baseurl: ""
 
-gems:
+plugins:
   - jekyll-redirect-from
 
 permalink: /:title/
