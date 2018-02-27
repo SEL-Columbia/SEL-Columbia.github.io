@@ -203,7 +203,25 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
     <h3>2015</h3>
 
     <p>
-      <strong>February</strong><br /> Farmers begin using solar PV irrigation system <br />
+      <strong>February</strong><br />
+      Farmers begin using solar PV irrigation system
+      <a href="/first-four-farmers-are-irrigating-their-fields-with-our-centralized-solar-array/" title="First four farmers are irrigating their fields with our centralized solar array"> [Blog Entry] </a>
+      <br />
+    </p>
+
+    <p>
+      <strong>July</strong><br />
+      Three pilot systems installed in Gabar, Senegal
+      <br />
+    </p>
+
+    <h3>2016</h3>
+
+    <p>
+      <strong>July</strong><br />
+      One year installation anniversary with all pilot systems running
+      <a href="/celebrating-more-than-a-year-of-shared-irrigation/" title="Celebrating More Than a Year of Shared Irrigation"> [Blog Entry] </a>
+      <br />
     </p>
 
   </div>
