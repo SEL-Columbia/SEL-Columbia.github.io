@@ -210,10 +210,10 @@ summary: "The Earth Institute’s Millennium Villages project (MVP) is striving 
     <p>
       <div style="list-style-type:none">
         {% for post in site.categories.publications %}
-          {% if post.tags contains 'Millennium Development Goals' %}
+          {% if post.tags contains 'Millennium Villages Project' %}
             {% include publication_listing.html post=post %}
           {% endif %}
-          {% if post.tags contains 'Millennium Villages Project' %}
+          {% if post.tags contains 'Millennium Development Goals' %}
             {% include publication_listing.html post=post %}
           {% endif %}
         {% endfor %}
