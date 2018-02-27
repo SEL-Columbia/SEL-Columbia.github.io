@@ -4,6 +4,7 @@ image: <a href="http://sel.columbia.edu/dpt/"><strong>Development Planning Toolk
 link: "/assets/uploads/blog/2012/06/Infrastructure_and_Energy_Report_WEB.pdf"
 tags:
   - ICT Energy
+  - Millennium Villages Project
 ---
 
  An overview and assessment of the millennium village project energy and infrastructure sector after five years

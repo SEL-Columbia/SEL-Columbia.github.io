@@ -11,7 +11,7 @@ title: Jobs
 </h2>
 
 <p style="color: #000000;">
-  We solve real-world problems in the developing world; we use engineering to make the development process smarter and to bring new services, like health and energy, to people that need them most. 
+  We solve real-world problems in the developing world; we use engineering to make the development process smarter and to bring new services, like health and energy, to people that need them most.
 </p>
 
 <p style="color: #000000;">
@@ -41,7 +41,7 @@ title: Jobs
 
 <ul style="color: #000000;">
   <li><a href="/shared-solar/">Shared Solar</a> &#8211; Micro-grid solution providing electric infrastructure to a cluster of customers that are not immediately considered viable for grid connectivity.  <a href="/tags/#Shared Solar">See related blog posts</a></li>
-  <li><a href="/acacia-irrigation/">Acacia Irrigation</a> &#8211; Smart solar irrigation in Senegal.  <a href="/tags/#Acacia Irrigation">See related blog posts</a></li>
+  <li><a href="/acacia-irrigation-project/">Acacia Irrigation</a> &#8211; Smart solar irrigation in Senegal.  <a href="/tags/#Acacia Irrigation">See related blog posts</a></li>
   <li><a href="/quench/">Quench</a> &#8211; Safe drinking water management solution for rural, urban, and peri-urban settings.  <a href="/tags/#Quench">See related blog posts</a></li>
 </ul>
 
@@ -51,4 +51,3 @@ title: Jobs
   <li><a href="/network-planner/">Network Planner</a> &#8211; Online tool for planning grid, mini-grid, and off-grid electricity from the community scale to national scale.  <a href="/tags/#Energy Planning">See related blog posts</a></li>
   <li><a href="/dokomo/">Dokomo Forms</a> &#8211; Offline-capable mobile data collection tool.  <a href="/tags/#Dokomo Forms">See related blog posts</a></li>
 </ul>
-

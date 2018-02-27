@@ -4,7 +4,8 @@ photo: /assets/uploads/team/jonathan.jpg
 full_name:  Jonathan Carbajal
 position: Product Manager
 email: jc3853@columbia.edu
-github: 
+github:
+employer: Demand Energy
 redirect_from:
   - /author/jonathan/
 ---

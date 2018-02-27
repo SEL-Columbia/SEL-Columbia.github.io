@@ -55,6 +55,14 @@ author: roger-wong
         {% endif %}
       {% endfor %}
     </ul>
+    <h3>Millennium Development Goals</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+	      {%if post.tags contains 'Development Goals' %}
+	        {% include publication_listing.html post=post %}
+	      {% endif %}
+      {% endfor %}
+    </ul>
   </div>
 
   <div class="span4"  style="float:left; margin:0; width:49%;">
@@ -66,12 +74,12 @@ author: roger-wong
 	      {% endif %}
       {% endfor %}
     </ul>
-    <h3>Millennium Development Goals</h3>
+    <h3>Education</h3>
     <ul class="post-list" style="list-style-type:none">
       {% for post in site.categories.publications %}
-	      {%if post.tags contains 'Development Goals' %}
-	        {% include publication_listing.html post=post %}
-	      {% endif %}
+        {%if post.tags contains 'Education' %}
+          {% include publication_listing.html post=post %}
+        {% endif %}
       {% endfor %}
     </ul>
     <h3>Data Collection & Analysis</h3>

@@ -6,7 +6,7 @@ image: /assets/uploads/blog/2013/09/nigeria.jpg
 main_link: /scale-up-initiative/
 location: Nigeria
 related_blog_entries: /tags/#Nigeria Scale-up Initiative
-summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium Development Goals (OSSAP-MDGs) has constructed an ambitious programme to provide conditional grants to hundreds of Local Government Areas in Nigeria through a data-driven process. The Sustainable Engineering Lab designs and builds tools, as well as works directly with OSSAP-MDGs to use these tools to implement the process of data-driven planning at scale. <a href=\"http://formhub.org/\">Formhub</a> and <a href=\"http://nmis.mdgs.gov.ng/\">NMIS</a> are key anchor tools for this project and prompted the development of <a href=\"http://revisit.global/\">Revisit</a>."
+summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium Development Goals (OSSAP-MDGs) has constructed an ambitious programme to provide conditional grants to hundreds of Local Government Areas in Nigeria through a data-driven process. The Sustainable Engineering Lab designs and builds tools, as well as works directly with OSSAP-MDGs to use these tools to implement the process of data-driven planning at scale. <a href=\"https://github.com/SEL-Columbia/formhub/\">Formhub and <a href=\"/nigeria-mdgs-information-system\">NMIS</a> are key anchor tools for this project and prompted the development of <a href=\"http://revisit.global/\">Revisit</a>."
 ---
 ![nigeria-main][1]
 
@@ -16,7 +16,6 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
 
 <div class="row-fluid">
   <div class="span9">
-    <br />
 
     <p>
       The Nigerian Government has committed $1.2 billion USD to achieving the Millennium Development Goals. In an effort to regulate and most effectively use this funding, the Office of the Senior Special Assistant to the President on the Millennium Development Goals (OSSAP-MDGs) created the Conditional Grants Scheme (CGS). Through this scheme, funds are released to Local Government Areas (LGAs) to be used for specific, approved purposes geared towards reducing poverty and improving education and public health, and that they be matched by local funds.
@@ -28,7 +27,6 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
   </div>
 
   <div class="span3">
-    <br />
 
     <p class="wp-caption-text" style="line-height:17pt;">
       <strong>Project type:</strong> ICT4D
@@ -39,22 +37,18 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Partners:</strong> <a href="http://www.mdgs.gov.ng" target="_blank">OSSAP-MDGS</a>
+      <strong>Partners:</strong><br>
+      OSSAP-MDGS
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Links:</strong> <br /><!-- broken link <a href="http://nmis.mdgs.gov.ng" title="Nigeria MDG Information System" target="_blank">NMIS</a><br />--><a href="/tags/#Nigeria Scale-up Initiative"> Related Blog Entries </a>
+      <strong>Menu:</strong><br />
+      <a href="#DataGathering">Data Gathering and Analysis</a><br />
+      <a href="#NMISdata">NMIS Data</a><br />
+      <a href="#Papers">Papers</a><br />
+      <a href="/tags#Nigeria Scale-up Initiative"> Related Blog Entries</a>
     </p>
 
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads:</strong> <br /><a href="/assets/uploads/blog/2014/04/NMIS.pdf">Project Summary [PDF]</a>
-      <br>
-      <a href="/assets/uploads/blog/2017/qsel-project-updates/qSEL-NMIS-Brochure-2017.pdf">Project Update [PDF]</a>
-    </p>
-
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Papers:</strong> <br /> <a href="/assets/uploads/blog/2013/09/DataDrivenLocalPlanning_Final.pdf">Data-Driven Local Planning at National Scale</a> <br /><br /> <a href="/assets/uploads/blog/2013/09/CellularCitizenship.pdf">Cellular Citizenship</a> <br /><br /> <a href="/assets/uploads/blog/2014/04/LessonsOnAuthoringMultipleChoice.pdf">Lessons On Authoring Multiple Choice Survey Questions</a> <br /><br /> <a href="/assets/uploads/blog/2013/09/LessonsOnEnumeratorTraining.pdf">Lessons On Enumerator Training</a> <br /><br /> <a href="/assets/uploads/blog/2013/09/LessonsOnAuthoringSurveysScale.pdf">Lessons On Authoring Infrastructure Surveys at Scale</a>
-    </p>
   </div>
 </div>
 
@@ -62,10 +56,11 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
   <div class="span9">
     <p>
       The end result is an online portal, the Nigeria MDG Information System (NMIS), that displays all of the data collected. NMIS has proven to be an invaluable planning tool for local government areas. In Summer 2014, OSSAP will take this initiative further and open the data to the public. The hope is to encourage and help other organizations better plan future infrastructure and move Nigeria closer to achieving the MDGs. It is designed to be used by planners, researchers and the broader global development community.
-    </p><br>
+    </p>
 
+    <a id="DataGathering"></a>
     <h3>
-      Data gathering and analysis
+      Data Gathering and Analysis
     </h3>
 
     <img src="/assets/uploads/blog/2014/04/TA_training.jpg" alt="TA_training" />
@@ -75,7 +70,7 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
     </p>
 
     <p>
-      Gathering data for NMIS was an iterative process, involving 3 separate surveys and collections. Trained enumerators collected data on Android-based smartphones using <a href="http://formhub.org">formhub</a>, a tool specifically developed by SEL to provide fast, flexible and reliable mobile data collection, even while offline.
+      Gathering data for NMIS was an iterative process, involving 3 separate surveys and collections. Trained enumerators collected data on Android-based smartphones using <a href="https://github.com/SEL-Columbia/formhub">formhub</a>, a tool specifically developed by SEL to provide fast, flexible and reliable mobile data collection, even while offline.
     </p>
 
     <p>
@@ -108,8 +103,9 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
       </li>
     </ul><br>
 
+    <a id="NMISdata"></a>
     <h3>
-      NMIS data
+      NMIS Data
     </h3>
 
     <img src="/assets/uploads/blog/2014/04/educationMapView.jpg" alt="educationMapView" />
@@ -120,6 +116,23 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
 
     <p>
       The data collected and found on NMIS includes geo-location, type of facility, equipment, services offered, staffing, functionality and many other important parameters. Users can view critical indicators of progress for health, education and water of an entire Local Government Area, filter content by sector, view a map of facility locations or get an in-depth look at each facility. NMIS highlights specific indicators used to inform decisions on how to bridge gaps to achieve goals on a number of levels, local to federal.
+    </p>
+  </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <hr />
+    <a id="Papers"></a>
+    <h3>Papers</h3>
+    <p>
+      <div style="list-style-type:none">
+        {% for post in site.categories.publications %}
+          {% if post.tags contains 'NMIS' %}
+            {% include publication_listing.html post=post %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </p>
   </div>
 </div>

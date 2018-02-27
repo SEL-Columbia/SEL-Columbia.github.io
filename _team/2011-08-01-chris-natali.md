@@ -4,7 +4,8 @@ photo: /assets/uploads/team/chris.png
 full_name:  Chris Natali
 position: Senior Software Engineer
 email: chris.natali.ei@gmail.com
-github: 
+employer: Square
+github:
 redirect_from:
   - /author/cjn/
 ---

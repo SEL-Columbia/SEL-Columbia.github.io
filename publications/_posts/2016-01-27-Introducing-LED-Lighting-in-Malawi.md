@@ -4,4 +4,5 @@ image: None
 link: "/assets/uploads/blog/2013/10/Modi2010Off-grid.pdf"
 tags:
   - LED Lighting
+  - Millennium Villages Project
 ---

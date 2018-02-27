@@ -41,31 +41,37 @@ summary: "Natural gas is a growing share in the global primary energy mix—curr
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Partners:</strong> <a href="http://www.eni.com/en_IT/home.html" title="Eni S.p.A">Eni S.p.A</a>
+      <strong>Partners:</strong><br />
+      <a href="http://www.eni.com/en_IT/home.html" title="Eni S.p.A">Eni S.p.A</a>
     </p>
 
     <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Downloads:</strong><br /> <a href="/assets/uploads/blog/2014/08/NaturalGasEastAfrica.pdf">Project Summary [PDF]</a> <br /> <a href="http://gallery.mailchimp.com/20fec43d5e4f6bc717201530a/files/71cc5b61-489c-41a7-82bb-1b79e21d6a61.pdf" target="_blank">Workshop summary</a>
+      <strong>Menu:</strong><br />
+      <a href="#Benefits">Benefits of Natural Gas</a><br />
+      <a href="#Analysis">Preliminary Analysis</a><br />
+      <a href="#Papers">Papers</a><br />
+      <a href="/tags#Natural Gas"> Related Blog Entries</a>
     </p>
 
-    <p class="wp-caption-text" style="line-height:17pt;">
-      <strong>Papers:</strong> <br /> <a href="/assets/uploads/blog/2014/11/potential-for-regional-use-of-east-africa’s-natural-gas.pdf">Full report</a>
-    </p>
   </div>
 </div>
 
+* * *
+
 <div class="row-fluid">
-  <div class="span9">
+  <div class="span12">
+    <a id="Benefits"></a>
     <h3>
-      Benefits of natural gas
+      Benefits of Natural Gas
     </h3>
 
     <p>
       Natural gas is a flexible resource that can be used for various applications. While a large share of the rural and urban population in Eastern Africa depends on solid biomass for cooking, which causes deforestation and health problems, natural gas could represent a clean and affordable alternative. Natural gas — as a fuel for combined cycle power plants — allows for generation of electricity at an affordable price and can be efficiently used for balancing fluctuating renewable resources, like wind or solar. CNG could also represent a cheaper fuel alternative for road transportation than gasoline or diesel. Finally, the agricultural sector could benefit from the ability to locally produce more affordable nitrogenous fertilizers compared to current imports. For these applications, competitive prices have been estimated and range from around $15/MMBtu for cooking to more than $30/MMBtu for transportation.
     </p>
 
+    <a id="Analysis"></a>
     <h3>
-      Preliminary techno-economic analysis
+      Preliminary Techno-Economic Analysis
     </h3>
 
     <p>
@@ -74,6 +80,22 @@ summary: "Natural gas is a growing share in the global primary energy mix—curr
 
     <p>
       To highlight this research, SEL together with the United Nations’ Sustainable Energy for All, Columbia University’s Center on Global Energy Policy, and Columbia Global Centers-Africa co-organized a workshop in Addis Ababa on June 2nd, 2014, to present and discuss the preliminary results. Participants included senior officials from East Africa, the United States, and the East Africa Community as well as representatives from the World Bank, oil &#038; gas industry, academia, and leading energy consultancies.
+    </p>
+  </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <a id="Papers"></a>
+    <h3>Papers</h3>
+    <p>
+      <div style="list-style-type:none">
+        {% for post in site.categories.publications %}
+          {% if post.tags contains 'Natural Gas' %}
+            {% include publication_listing.html post=post %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </p>
   </div>
 </div>
