@@ -79,8 +79,6 @@ summary: "Most rural communities have two options for electrification: wait for 
   </div>
 </div>
 
-
-
 <div class="row-fluid">
   <div class="span12">
     <hr />
@@ -99,44 +97,44 @@ summary: "Most rural communities have two options for electrification: wait for 
       <strong>Social and Environmental</strong> <br /> Health and safety problems from toxic fumes and poor quality lighting are eliminated. Clinics, schools, community centers and drinking water systems can all receive reliable power without burdening themselves with maintenance of separate stand-alone systems. Tariff-enabled financing permits leasing-to-own models for efficient appliances without the additional costs of micro-finance transactions.
     </p>
 
-      <p>
-        <strong>Economic &#038; Employment</strong> <br /> Income-generating activities like agriculture, entertainment, ice-making, tourism etc can be powered sustainably. Systems can be upgraded when demand grows, ensuring precious capital is used judiciously while at the same time allowing customers and local entrepreneurs to grow their demands as they need without having to upgrade their individual systems.
-      </p>
+    <p>
+      <strong>Economic &#038; Employment</strong> <br /> Income-generating activities like agriculture, entertainment, ice-making, tourism etc can be powered sustainably. Systems can be upgraded when demand grows, ensuring precious capital is used judiciously while at the same time allowing customers and local entrepreneurs to grow their demands as they need without having to upgrade their individual systems.
+    </p>
 
-      <div class="row-fluid">
-        <div class="span9">
-          <hr />
+    <div class="row-fluid">
+      <div class="span9">
+        <hr />
 
-          <a id="SuccessStories"></a>
+        <a id="SuccessStories"></a>
 
-          <h3>
-            Success Stories
-          </h3>
+        <h3>
+          Success Stories
+        </h3>
 
-          <img src="/assets/uploads/blog/2014/10/sharedSolar_success.jpg" alt="sharedSolar_success" />
+        <img src="/assets/uploads/blog/2014/10/sharedSolar_success.jpg" alt="sharedSolar_success" />
 
-          <p>
-          </p>
+        <p>
+        </p>
 
-          <p>
-            A group of women in Mali have started a cold-drink business by leasing a refrigeration system that they pay off through their electricity tariff.
-          </p>
-        </div>
+        <p>
+          A group of women in Mali have started a cold-drink business by leasing a refrigeration system that they pay off through their electricity tariff.
+        </p>
       </div>
+    </div>
+  </div>
+</div>
 
 <div class="row-fluid">
   <div class="span12">
     <hr />
     <a id="Papers"></a>
     <h3>Papers</h3>
-    <p>
-      <div style="list-style-type:none">
-        {% for post in site.categories.publications %}
-          {%if post.tags contains 'Shared Solar' %}
-            {% include publication_listing.html post=post %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </p>
+    <div class="post-list" style="list-style-type:none;">
+      {% for post in site.categories.publications %}
+        {% if post.tags contains 'Shared Solar' %}
+          {% include pub_project_listing.html post=post %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>

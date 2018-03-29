@@ -66,14 +66,12 @@ summary: "The portable PowerPack has multiple potential uses but was primarily d
     <hr />
     <a id="Papers"></a>
     <h3>Papers</h3>
-    <p>
-      <div style="list-style-type:none">
-        {% for post in site.categories.publications %}
-          {%if post.tags contains 'PowerPack' %}
-            {% include publication_listing.html post=post %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </p>
+    <div class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+        {%if post.tags contains 'PowerPack' %}
+          {% include pub_project_listing.html post=post %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>

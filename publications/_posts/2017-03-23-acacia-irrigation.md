@@ -7,4 +7,4 @@ tags:
   - Acacia Irrigation
 ---
 
-Pay-as-you-go (or lease to own) system for smallholder irrigation
+<p>Pay-as-you-go (or lease to own) system for smallholder irrigation</p>
