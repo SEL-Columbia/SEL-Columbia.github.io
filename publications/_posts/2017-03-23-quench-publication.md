@@ -7,4 +7,4 @@ tags:
   - Quench
 ---
 
-Pay-as-you-go hardware and software platform that offers an enhanced water management solution for rural, urban and peri-urban settings
+<p>Pay-as-you-go hardware and software platform that offers an enhanced water management solution for rural, urban and peri-urban settings</p>

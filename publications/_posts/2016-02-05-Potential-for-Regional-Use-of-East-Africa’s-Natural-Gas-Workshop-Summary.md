@@ -6,4 +6,4 @@ tags:
   - Natural Gas
 ---
 
-Workshop Summary
+<p>Workshop Summary</p>

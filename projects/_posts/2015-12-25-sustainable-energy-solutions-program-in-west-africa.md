@@ -158,14 +158,12 @@ summary: "Energy issues facing society are one of the biggest technological and 
     <hr />
     <a id="Papers"></a>
     <h3>Papers</h3>
-    <p>
-      <div style="list-style-type:none">
-        {% for post in site.categories.publications %}
-          {% if post.tags contains 'Sustainable Energy Solutions Program' %}
-            {% include publication_listing.html post=post %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </p>
+    <div class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+        {% if post.tags contains 'Sustainable Energy Solutions Program' %}
+          {% include pub_project_listing.html post=post %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>

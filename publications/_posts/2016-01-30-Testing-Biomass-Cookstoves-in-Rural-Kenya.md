@@ -7,4 +7,4 @@ tags:
   - Millennium Villages Project
 ---
 
- Testing institutional biomass cookstoves in rural Kenyan schools for the Millennium Villages Project
+ <p>Testing institutional biomass cookstoves in rural Kenyan schools for the Millennium Villages Project</p>

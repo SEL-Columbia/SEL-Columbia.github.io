@@ -232,14 +232,12 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
     <hr />
     <a id="Papers"></a>
     <h3>Papers</h3>
-    <p>
-      <div style="list-style-type:none">
-        {% for post in site.categories.publications %}
-          {% if post.tags contains 'Acacia Irrigation' %}
-            {% include publication_listing.html post=post %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </p>
+    <div class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications %}
+        {% if post.tags contains 'Acacia Irrigation' %}
+          {% include pub_project_listing.html post=post %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>
