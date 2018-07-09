@@ -1,9 +1,10 @@
 ---
 status: former
+photo: /assets/uploads/team/john.jpg
 full_name: John Humphrey
 position: Energy Systems Engineer
 email: solarjohn@gmail.com
-github: 
+github:
 redirect_from:
   - /author/john-humphrey/
 ---
