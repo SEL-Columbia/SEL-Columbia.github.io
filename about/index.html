@@ -37,17 +37,35 @@ title: About
     </div>
 </div>
 
-{% assign former = site.team | where:"status","former" %}
+{% assign former = site.team | where:"status","former" | reverse %}
 {% for alum in former %}
-<div class="row">
-    <div class="span3">
-        {{ alum.full_name }}
+  {% if alum.photo %}
+    <div class="profile">
+        <img class="profile_img" src="{{ alum.photo }}" onerror="this.src='/assets/uploads/team/default.png'">
+        <div class="profile_name">
+            {{ alum.full_name}}
+        </div>
+        <div class="profile_position">
+            {{ alum.employer }}
+        </div>
     </div>
-    <div class="span6">
-        {{ alum.employer }}
-    </div>
-</div>
+  {% endif %}
 {% endfor %}
+{% for alum in former %}
+  {% if alum.photo == NULL %}
+    <div class="profile">
+        <img class="profile_img" src="{{ alum.photo }}" onerror="this.src='/assets/uploads/team/default.png'">
+        <div class="profile_name">
+            {{ alum.full_name}}
+        </div>
+        <div class="profile_position">
+            {{ alum.employer }}
+        </div>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<div class="clearfix"></div>
 
 <div class="row">
   <div class="span9 col-lg-6 col-sm-12">
