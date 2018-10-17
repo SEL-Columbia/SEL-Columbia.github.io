@@ -187,7 +187,7 @@ summary: "Irrigation of crops is critical to agricultural success, but in Senega
     <p></p>
 
     <p>
-      <strong>October</strong> <br /> Pump controller shipped to Senegal for pilot testing <a href="https://twitter.com/sel_columbia/status/532641304589901825"> [Picture tweet] </a>
+      <strong>October</strong> <br /> Pump controller shipped to Senegal for pilot testing <a href="https://twitter.com/qsel_columbia/status/532641304589901825"> [Picture tweet] </a>
     </p>
 
     <p></p>
