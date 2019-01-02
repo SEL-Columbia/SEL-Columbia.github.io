@@ -7,7 +7,7 @@ image:
   - /assets/uploads/blog/2010/08/Peak-Lab-stove-d.jpg
 tags:
   - Biomass Cook Stoves
-  - Millenium Villages Project
+  - Millennium Villages Project
   - Bio-Fuel
   - Papers
 ---

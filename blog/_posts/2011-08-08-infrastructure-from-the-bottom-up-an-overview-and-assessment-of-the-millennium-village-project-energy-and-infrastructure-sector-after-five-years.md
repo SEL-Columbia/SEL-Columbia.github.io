@@ -6,7 +6,7 @@ guid: http://modi.mech.columbia.edu/?p=1735
 image:
   - /assets/uploads/blog/2011/08/Picture1.jpg
 tags:
-  - Millenium Villages Project
+  - Millennium Villages Project
   - Infrastructure Planning
   - News
   - Reports

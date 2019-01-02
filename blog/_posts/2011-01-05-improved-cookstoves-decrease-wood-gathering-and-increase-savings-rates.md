@@ -7,7 +7,7 @@ image:
   - /assets/uploads/blog/2011/01/Tiby63.jpg
 tags:
   - Biomass Cook Stoves
-  - Millenium Villages Project
+  - Millennium Villages Project
 ---
 Between October 2009 and January 2010, MASEF performed cooking demonstrations in villages throughout the cluster to market and sell all three types of Lakika stoves. It was during one of such demonstrations that Madame Aminata Coulibaly, the women body president, purchased a Nafacaman stove for 1500CFA (about $3.15). 
 

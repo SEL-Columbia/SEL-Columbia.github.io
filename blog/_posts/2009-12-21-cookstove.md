@@ -7,7 +7,7 @@ image:
   - /assets/uploads/blog/2010/04/692391.jpg
 tags:
   - Biomass Cook Stoves
-  - Millenium Villages Project
+  - Millennium Villages Project
 ---
 It is estimated that over 2 billion of the world’s population live in families that use firewood or some other form of biomass to cook every day. Stoves that require less wood would go a long way in reducing climate change due to deforestation and reduce the firewood collection burden on women and children.
 

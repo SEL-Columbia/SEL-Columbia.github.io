@@ -6,7 +6,7 @@ guid: http://modi.mech.columbia.edu/?p=1693
 image:
   - 
 tags:
-  - Millenium Villages Project
+  - Millennium Villages Project
   - Gujarat Water Study
   - News
 ---

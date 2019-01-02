@@ -4,9 +4,9 @@ title: 'Off-grid energy services for the poor: Introducing LED lighting in the  
 author: modi-research-group
 guid: http://modi.buildafrica.org/?p=84
 image:
-  - 
+  -
 tags:
-  - Millenium Villages Project
+  - Millennium Villages Project
   - LED Lighting
   - Papers
 ---

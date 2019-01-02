@@ -5,7 +5,7 @@ author: john-humphrey
 guid: http://sel.columbia.edu/?p=4293
 tags:
   - Acacia Irrigation
-  - Millenium Villages Project
+  - Millennium Villages Project
   - News
   - Smart Solar Irrigation
   - Irrigation

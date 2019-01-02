@@ -7,7 +7,7 @@ image:
   - /assets/uploads/blog/2010/09/clip_image001.jpg
 tags:
   - LED Lighting
-  - Millenium Villages Project
+  - Millennium Villages Project
 ---
 **Overview of MVP Lantern Program** 
 

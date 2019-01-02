@@ -7,7 +7,7 @@ image:
   - /assets/uploads/blog/2011/04/lijawwwd1.bmp
 tags:
   - Biomass Cook Stoves
-  - Millenium Villages Project
+  - Millennium Villages Project
   - News
 ---
 The Millennium Village Project (MVP)’s Household Stove Program was awarded a special achievement award for “Meeting Community Needs” at the [Partnership for Clean Indoor Air Forum (PCIA)][1]’s bi-annual Forum in Lima, Peru. The award is “in appreciation and recognition of the MVP’s dedication to meeting community needs through household energy interventions,” and recognized the project’s dedication to tailoring programs by country and region to meet the cooking needs of households. 
