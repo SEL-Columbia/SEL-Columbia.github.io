@@ -7,4 +7,4 @@ tags:
   - Millennium Villages Project
 ---
 
- <p>An overview and assessment of the millennium village project energy and infrastructure sector after five years</p>
+ <p>An overview and assessment of the Millennium Village project energy and infrastructure sector after five years</p>

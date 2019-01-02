@@ -11,7 +11,7 @@ summary: "Nigeria’s Office of the Senior Special Assistant to the Millennium D
 ![nigeria-main][1]
 
 <p class="wp-caption-text" style="line-height:17pt;">
-  Student Eucharia Ekwealor in the newly renovated Christ the King College classroom block, Umuem, Anambra West LGA <br /> Photo Courtesy of OSSSAP-MDGs
+  Student Eucharia Ekwealor in the newly renovated  Christ the King College classroom block, Umuem, Anambra West LGA <br /> Photo Courtesy of OSSSAP-MDGs
 </p>
 
 <div class="row-fluid">
