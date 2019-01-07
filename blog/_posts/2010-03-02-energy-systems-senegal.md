@@ -8,7 +8,7 @@ image:
   - /assets/uploads/blog/2010/04/potoucomps-border.png
 tags:
   - Energy Planning
-  - Millenium Villages Project
+  - Millennium Villages Project
   - Field Reports
 ---
 This report summarizes the findings of a survey conducted on the use of energy in different sector in the Millennium Villages Project (MVP) cluster of Potou (Senegal). The survey included energy use in schools, health care centers, public buildings, agriculture, fisheries as well as shops and businesses. 
