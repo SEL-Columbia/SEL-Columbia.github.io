@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/poojan.jpg
 full_name: Poojan Parekh
 position: Graduate Student Researcher (MS Track)
