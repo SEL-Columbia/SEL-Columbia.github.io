@@ -10,7 +10,7 @@ tags:
 
 ![Fossil Fuel Ratio Map](/assets/uploads/blog/2019/heating-decarbonization-study-us/fossil-fuel-peak-ratio-map.png)
 
-[Electricity Load Implications of Space Heating Decarbonization Pathways](https://doi.org/10.1016/j.joule.2019.11.011)
+Read the full article published in [Joule](https://doi.org/10.1016/j.joule.2019.11.011).
 
 Greenhouse gas emissions from electricity generation get a lot of attention,
 but [the 12% of nationwide emissions](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
