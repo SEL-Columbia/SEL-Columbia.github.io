@@ -2,7 +2,7 @@
 status: current
 photo: /assets/uploads/team/mike_ars.jpeg
 full_name:  Michael Waite
-position: Postdoctoral Research Scientist
+position: Associate Research Scientist
 email: mbw2113@columbia.edu
 github: 
 ---
