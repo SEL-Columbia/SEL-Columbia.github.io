@@ -1,6 +1,6 @@
 ---
 status: current
-photo: /assets/uploads/team/default.png
+photo: /assets/uploads/team/nikhil-mehta.jpeg
 full_name: Nikhil Mehta
 position: Undergraduate Student Researcher
 email: nikhil.mehta@columbia.edu
