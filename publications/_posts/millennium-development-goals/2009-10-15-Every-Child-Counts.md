@@ -1,7 +1,7 @@
 ---
 title: 'Every Child Counts'
 image: None
-link: "/assets/uploads/blog/2009/publications/ChildCount_Kenya_InitialReport.pdf"
+link: "/assets/uploads/blog/2009/publications/child-count-kenya-initial-report.pdf"
 tags:
   - Development Goals
 ---
