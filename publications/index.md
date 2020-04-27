@@ -7,6 +7,12 @@ author: roger-wong
   <h2 id="products__tools">Publications</h2>
 
   <div class="span4" style="float:left; margin:0; width:49%;">
+    <h3>Most Recently Added Publications</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% for post in site.categories.publications limit: 3 %}
+        {% include publication_listing.html post=post %}
+      {% endfor %}
+    </ul>
     <h3>Cookstoves</h3>
     <ul class="post-list" style="list-style-type:none">
       {% for post in site.categories.publications %}
