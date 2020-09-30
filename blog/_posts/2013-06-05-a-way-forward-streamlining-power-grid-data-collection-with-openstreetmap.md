@@ -27,7 +27,7 @@ Since our initial timeline was short, we needed to make use of existing systems.
 
 [FormHub][4] system and [ODK Collect][5] were well suited. FormHub provides hosted services for managing survey forms and associated data. ODK would run on users Android devices and allow them to fill out survery forms (regarding power equipment data) and submit to FormHub.
 
-To capture the network segments we settled on using a GPS tracking application called OSMTracker due to its simplicity. OSMTracker would also run on users Android devices, primarily in the background. It works by capturing latitude and longitude at regular intervals while traveling along a route. This results in an ordered set of points representing a set of connected segments, or in our case, a branch of a power network. 
+To capture the network segments we settled on using a GPS tracking application called OSMTracker due to its simplicity. OSMTracker would also run on users Android devices, primarily in the background. It works by capturing latitude and longitude at regular intervals while traveling along a route. This results in an ordered set of points representing a set of connected segments, or in our case, a branch of a power network.
 
 In theory, this was all we needed to meet our objectives. How hard could it be to stitch the points from FormHub and lines from OSMTracker together into a seamless network?
 
@@ -35,7 +35,7 @@ In theory, this was all we needed to meet our objectives. How hard could it be t
 
 It was quite cumbersome. For the network line data, what we were capturing could have been mistaken for a plate of 
 
-[Cartographic Spaghetti][6] spread out over a set of files. We were able to piece together the line segments from these files into an adequate network as input for NetworkPlanner, but the process was haphazard and laborious. 
+[Cartographic Spaghetti][6] spread out over a set of files. We were able to piece together the line segments from these files into an adequate network as input for NetworkPlanner, but the process was haphazard and laborious.
 
 Further, we had no method for integrating the power equipment node data collected via FormHub and the network line data. An integrated dataset would be much more meaningful to PLN.
 
@@ -43,7 +43,7 @@ Further, we had no method for integrating the power equipment node data collecte
 
 At this point, it was obvious that a more centralized and integrated system for capturing geometry would help. Several of us in the lab had positive experiences working with [OpenStreetMap][7] for transportation networks. Would it work as well for a power network?
 
-It’s impossible to do it justice in this post, but OSM relies on a topological data model abstracted as Nodes (Points), Ways (which reference Nodes) and Relations (which reference Nodes, Ways or other Relations). Nodes are the fundamental unit of composition, which dramatically simplifies maintaining the integrity of geometry vs managing independent files of points and lines. For instance, a power line and the transformers connected to it would be related inherently by the fact that the Way representing the power line includes the Nodes representing the transformers. 
+It’s impossible to do it justice in this post, but OSM relies on a topological data model abstracted as Nodes (Points), Ways (which reference Nodes) and Relations (which reference Nodes, Ways or other Relations). Nodes are the fundamental unit of composition, which dramatically simplifies maintaining the integrity of geometry vs managing independent files of points and lines. For instance, a power line and the transformers connected to it would be related inherently by the fact that the Way representing the power line includes the Nodes representing the transformers.
 
 Additionally, OSM data is versioned, so the history of data is retained, a nice safety-net and audit trail. And with practical, efficient user interfaces like [JOSM][8] and the new [iD editor][9] to manipulate the geometry and interact with the OSM repository, our job seemed almost done.
 
@@ -62,7 +62,7 @@ The one obvious solution to #2 was to deploy our own instance (known as a Fork) 
 
 As a 2nd round of on-site training and data capture was quickly approaching, our system was evolving into something that might have been perceived as a Frankenstein. We were attempting to package 2 complex systems (FormHub and OpenStreetMap), each with their own set of tools and methodologies into a single comprehensive system for this project.
 
-Given our time constraints, the requirements and our existing tools, we prefer to think that our system evolved via the Goldilocks Principle. With enough architecture and design to provide structure and make data capture efficient, but not so much as to be impractical or introduce delays in the project…i.e. “just right”. 
+Given our time constraints, the requirements and our existing tools, we prefer to think that our system evolved via the Goldilocks Principle. With enough architecture and design to provide structure and make data capture efficient, but not so much as to be impractical or introduce delays in the project…i.e. “just right”.
 
 <img src="/assets/uploads/blog/2013/06/chris-awayforward-diagram.jpg" alt="chris-awayforward-diagram" width="700" height="428" class="alignnone size-full wp-image-2217" />
 
@@ -76,7 +76,7 @@ Alongside PLN staff, we captured over 700km of medium-voltage line data and more
 
 In other words, we tamed Frankenstein with Fire and Motion and cleared our plate of Cartographic Spaghetti with a Fork 😉
 
-<iframe width="100%" height="500px" frameBorder="0" src="http://a.tiles.mapbox.com/v3/modilabs.pln_gridmaps.html?secure"></iframe>
+<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v3/modilabs.pln_gridmaps.html?secure"></iframe>
 
  [1]: /assets/uploads/blog/2013/06/8882363476_fecc3e7b33_b.jpg
  [2]: http://sel.columbia.edu/data-collection-mapping-power-lines-in-indonesia-to-inform-planning-2/
