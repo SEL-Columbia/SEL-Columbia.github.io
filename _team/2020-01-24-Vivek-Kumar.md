@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/vivek.jpg
 full_name: Vivek Kumar
 position: Undergraduate Student Researcher
