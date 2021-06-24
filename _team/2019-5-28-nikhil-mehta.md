@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/nikhil-mehta.jpeg
 full_name: Nikhil Mehta
 position: Undergraduate Student Researcher
