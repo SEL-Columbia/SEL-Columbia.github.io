@@ -1,6 +1,6 @@
 ---
 status: current
-photo: /assets/uploads/team/Zafrul-Islam.jpg
+photo: /assets/uploads/team/zafrul-islam.jpg
 full_name: Zafrul Islam
 position: SURE Intern
 email: zi2131@columbia.edu
