@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/alex-peile.jpg
 full_name: Alexander Peile
 position: Computer Vision Systems Assistant

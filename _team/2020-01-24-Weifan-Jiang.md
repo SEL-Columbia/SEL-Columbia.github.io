@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/weifan.jpg
 full_name:  Weifan Jiang
 position: Graduate Student Researcher (MS Track)
