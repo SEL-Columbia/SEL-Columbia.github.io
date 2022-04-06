@@ -63,15 +63,32 @@ author: roger-wong
     </ul>
     <h3>ICT Energy & Infrastructure</h3>
     <ul class="post-list" style="list-style-type:none">
+      {% assign ict_count = 0 %}
       {% for post in site.categories.publications %}
-	      {%if post.tags contains 'ICT Energy' %}
+	      {% if post.tags contains 'ICT Energy' %}
+          {% assign ict_count = ict_count | plus:1 %}
 	        {% include publication_listing.html post=post %}
 	      {% endif %}
+        {% if ict_count > 5 %}
+          {% break %}
+        {% endif %}
       {% endfor %}
     </ul>
   </div>
 
   <div class="span4"  style="float:left; margin:0; width:49%;">
+    <h3>ICT Energy & Infrastructure</h3>
+    <ul class="post-list" style="list-style-type:none">
+      {% assign ict_count = 0 %}
+      {% for post in site.categories.publications %}
+        {% if post.tags contains 'ICT Energy' %}
+          {% if ict_count > 5 %}
+            {% include publication_listing.html post=post %}
+          {% endif %}
+          {% assign ict_count = ict_count | plus:1 %}
+        {% endif %}
+      {% endfor %}
+    </ul>
     <h3>Innovations in Electricity Access</h3>
     <ul class="post-list" style="list-style-type:none">
       {% for post in site.categories.publications %}
