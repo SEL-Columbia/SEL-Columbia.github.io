@@ -1,5 +1,6 @@
 ---
 status: former
+photo: /assets/uploads/team/zaiming.jpg
 full_name: Zaiming Yao
 position: Data Analyst
 email:

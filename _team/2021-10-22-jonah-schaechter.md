@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/jonah-s.jpeg
 full_name: Jonah Schaechter-Santander
 position: Graduate Student Researcher (Sustainable Development Track)
