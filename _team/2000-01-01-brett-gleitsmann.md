@@ -1,6 +1,7 @@
 ---
 status: former
 full_name: Brett Gleitsmann
+photo: /assets/uploads/team/brett-gleitsmann.jpg
 position: Water System Specialist
 email: bag2120@columbia.edu
 github: 
