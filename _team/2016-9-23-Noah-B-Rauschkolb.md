@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/noah.jpg
 full_name:  Noah Rauschkolb
 position: Graduate Student Researcher (PhD Track)

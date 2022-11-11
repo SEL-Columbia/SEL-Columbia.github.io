@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/simone.jpg
 full_name: Sally Simone Fobi Nsutezo
 position: Graduate Student Researcher (PhD Track)
