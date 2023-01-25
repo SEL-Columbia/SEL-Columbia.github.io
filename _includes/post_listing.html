@@ -1,0 +1,16 @@
+<div class="row">
+    <h2>
+	<a href="{{ include.post.url }}">
+	    {{ include.post.title }}
+	</a>
+    </h2>
+
+    <p>
+	<a class="article-author" href="/team/{{ include.post.author }}">
+	    {% include author_name.html author=include.post.author %}
+	</a>
+	<span class="article-date">
+	    {{ post.date | date: "%b %-d, %Y"}}
+	</span>
+    </p>
+</div>

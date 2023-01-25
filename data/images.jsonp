@@ -1,0 +1,10 @@
+---
+---
+{% capture images %}
+  {% for file in site.static_files %}
+    {% if file.path contains '/assets/uploads/' %}
+      {"name":"{{ file.path | xml_escape }}","value":"{{ file.path | xml_escape }}"}|
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+images([{{ images | strip | split:'|' | sort | join:',' }}])

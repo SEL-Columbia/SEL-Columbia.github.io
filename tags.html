@@ -1,0 +1,23 @@
+---
+layout: page
+---
+{% comment %}
+Like http://blog.meinside.pe.kr/Adding-tag-cloud-and-archives-page-to-Jekyll/
+{% endcomment %}
+{% assign sorted_tags = site.tags | sort:title %}
+<div class="container">
+    <h3>Tags</h3>
+    {% for tag in sorted_tags %}
+        <a href="#{{ tag | first | slugize }}">#{{ tag | first }}</a>
+    {% endfor %}
+
+    <h3>Listing</h3>
+    {% for tag in sorted_tags %}
+        {% assign tag_name = tag | first %}
+        {% assign tag_id = tag_name | slugize %}
+        <h2 id="#{{ tag_id }}"><a name="{{ tag_id }}" href="#{{ tag_id }}">#{{ tag_name }}</a></h2>
+        {% for post in site.tags[tag_name] %}
+            {% include post_listing.html post=post %}
+        {% endfor %}
+    {% endfor %}
+</div>

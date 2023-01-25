@@ -1,0 +1,6 @@
+jekyll-dev:
+    image: "jekyll/jekyll:pages"
+    volumes:
+      - ./:/srv/jekyll
+    ports:
+      - "4000:4000"

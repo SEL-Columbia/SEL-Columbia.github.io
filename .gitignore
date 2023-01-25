@@ -1,0 +1,13 @@
+_site
+.sass-cache
+*.swp
+
+# This is a real pain. Why is this here?
+archive/
+# Why
+
+.DS_Store
+.bundle/
+Gemfile.lock
+path/
+vendor/

@@ -1,0 +1,40 @@
+<div class="span4">
+  {% if include.post.main_link %}
+  <a href="{{ include.post.main_link }}">
+    {% endif %}
+    <img src="{{ include.post.image }}">
+    {% if include.post.main_link %}
+  </a>
+  {% endif %}
+</div>
+<div class="span8 projects-details">
+  <h3>
+    {% if include.post.main_link %}
+    <a href="{{ include.post.main_link }}">
+      {% endif %}
+      {{ include.post.title }}
+      {% if include.post.main_link %}
+    </a>
+    {% endif %}
+  </h3>
+
+  {% if include.post.location %}
+  <span class="subhead">{{ include.post.location }}</span>
+  {% endif %}
+
+  {% if include.post.summary %}
+  {% capture text %}<p>{{ include.post.summary }}</p>{% endcapture%}
+  {% else %}
+  {% assign text = include.post.content %}
+  {% endif %}
+
+  {{ text }}
+
+  {% if include.post.project_page %}
+  <p><a href="{{ include.post.project_page }}">Project Page</a></p>
+  {% elsif include.post.related_blog_entries %}
+  <p><a href="{{ include.post.related_blog_entries }}">Related Blog Entries</a></p>
+  {% elsif include.post.full_report %}
+  <p><a href="{{ include.post.full_report }}">Download full report</a></p>
+  {% endif %}
+</div>

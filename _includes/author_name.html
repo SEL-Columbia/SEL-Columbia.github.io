@@ -1,0 +1,7 @@
+{% for member in site.team %}
+  {% assign id = member.url | split:"/" | last %}
+  {% if id == include.author %}
+    {{ member.full_name }}
+    {% break %}
+  {% endif %}
+{% endfor %}

@@ -1,6 +1,5 @@
 ---
-status: current
-photo: /assets/uploads/team/richard_quadracci.jpg
+status: former
 full_name:  Richard Quadracci
-position:  Quad Graphics (Ph.D. at Columbia, 1993)
+employer:  Quad Graphics
 ---

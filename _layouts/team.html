@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.full_name }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  {% assign blog_posts = false %}
+  {% assign author_id = page.url | split:"/" | last %}
+  {% for post in site.categories.blog %}
+      {% if post.author == author_id %}
+          {% if blog_posts == false %}
+	      {% assign blog_posts = true %}
+	      <header class="post-header">
+	          <h2 class="post-title">Blog posts</h2>
+	      </header>
+	  {% endif%}
+	  {% include post_listing.html post=post %}
+      {% endif %}
+  {% endfor %}
+
+</div>

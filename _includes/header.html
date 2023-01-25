@@ -1,0 +1,35 @@
+<div class="hr-bar"></div>
+<div class="container">
+    <div class="navigation">
+      <div class="sponsors">
+        <a href="http://www.earth.columbia.edu/">
+          <img src="/assets/uploads/theme/EI_logo.png">
+        </a>
+        <a href="http://www.engineering.columbia.edu/">
+          <img src="/assets/uploads/theme/SEAS_logo.png">
+        </a>
+      </div>
+      <div class="clearfix"></div>
+      <div class="row-fluid">
+        <div class="span3">
+            <a href="/">
+            <img src="/assets/uploads/theme/logo.png">
+          </a>
+        </div>
+        <div class="span9">
+          <ul class="navlist">
+    		{% comment %}
+            From Oli's answer on 
+            http://stackoverflow.com/questions/6366188/jekyll-select-current-page-url-and-change-its-class
+    		{% endcomment %}
+    		{% for link in site.navigation %}
+    		{% assign url = page.url|remove:'index.html' %}
+    		<li {% if url == link.url %}class="current-menu-item"{% endif %}>
+    			<a href="{{link.url}}">{{link.text}}</a>
+    		</li>
+    		{% endfor %}
+          </ul>                 
+        </div>
+      </div>
+    </div>
+</div>

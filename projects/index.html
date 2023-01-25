@@ -1,0 +1,32 @@
+---
+id: 20
+title: Projects
+author: jonathan-carbajal
+guid: http://modilabs.org/?page_id=20
+---
+
+<h2 id="sustainable_energy_projects">Sustainable Energy Projects</h2>
+{% for project in site.categories.projects %}
+    {% if project.type == 'Sustainable Energy' %}
+        <div class="row-fluid projects">
+	  <div class="span12">
+	      <div class="row-fluid">
+		  {% include project_summary.html post=project %}
+	      </div>
+	  </div>
+        </div>
+    {% endif %}
+{% endfor %}
+
+<h2>ICT4D & Development Planning Projects</h2>
+{% for project in site.categories.projects %}
+    {% if project.type == 'ICT4D and Development Planning' %}
+        <div class="row-fluid projects">
+	  <div class="span12">
+	      <div class="row-fluid">
+		  {% include project_summary.html post=project %}
+	      </div>
+	  </div>
+        </div>
+    {% endif %}
+{% endfor %}

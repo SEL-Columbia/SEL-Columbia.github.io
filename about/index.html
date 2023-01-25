@@ -1,0 +1,85 @@
+---
+title: About
+---
+
+
+<!-- Current Members (team) -->
+
+<div class="row-fluid">
+  <div class="span9">
+    <h2>
+      Team
+    </h2> The Lab brings together a diverse set of talents who work in collaboration to engineer solutions to development issues. From designers who understand user needs and talented software engineers to development practitioners and researchers, the expertise at the lab is both broad and deep.
+  </div>
+</div>
+
+{% assign current = site.team | where:"status","current" %}
+{% for member in current %}
+    <a class="profile" href="{{ member.url }}">
+        <img class="profile_img" src="{{ member.photo }}">
+        <div class="profile_name">
+            {{ member.full_name}}
+        </div>
+        <div class="profile_position">
+            {{ member.position }}
+        </div>
+    </a>
+{% endfor %}
+
+
+<div class="clearfix"></div>
+<br>
+<!-- Alumni -->
+
+<div class="row-fluid">
+    <div class="span9">
+        <h2>Alumni</h2>
+    </div>
+</div>
+
+{% assign former = site.team | where:"status","former" | reverse %}
+{% for alum in former %}
+  {% if alum.photo %}
+    <div class="profile">
+        <img class="profile_img" src="{{ alum.photo }}" onerror="this.src='/assets/uploads/team/default.png'">
+        <div class="profile_name">
+            {{ alum.full_name}}
+        </div>
+        <div class="profile_position">
+            {{ alum.employer }}
+        </div>
+    </div>
+  {% endif %}
+{% endfor %}
+{% for alum in former %}
+  {% if alum.photo == NULL %}
+    <div class="profile">
+        <img class="profile_img" src="{{ alum.photo }}" onerror="this.src='/assets/uploads/team/default.png'">
+        <div class="profile_name">
+            {{ alum.full_name}}
+        </div>
+        <div class="profile_position">
+            {{ alum.employer }}
+        </div>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<div class="clearfix"></div>
+
+<div class="row">
+  <div class="span9 col-lg-6 col-sm-12">
+    <h2>Partners</h2>
+    <p>
+      We work with diverse partners, ranging from small non-profit organizations to large government bodies, mainly working in the developing world.
+    </p>
+    <ul>
+      <li>Office of the Senior Special Assistant to the President on Millennium Development Goals, Nigeria — Nigeria MDGs Information System, Formhub, Facilities Inventory</li>
+      <li><a href="http://frhsindia.org/">Foundation for Research in Health Systems</a>, <a href="http://who.int/">World Health Organization</a>, National Rural Health Mission, Karnataka — Drishti</li>
+      <li><a href="http://www.millenniumvillages.org/">The Millennium Villages Project</a> — Formhub, ChildCount, Facilities Inventory</li>
+      <li><a href="http://www.africasoils.net/">Africa Soil Information System (AfSIS)</a>, <a href="http://africasoils.net/2012/09/20/418/">Ethiopia Soil Information System (EthioSIS)</a> — Formhub</li>
+      <li>Kenyan and Senegalese electricity utilities (KPLC and SENELEC) in conjunction with Ministry of Energy in Kenya and the Rural Electrification Agency in Senegal (ASER) has mplemented Network Planner for national level electricity planning.</li>
+      <li><a href="http://internews.org/">Internews</a> — Formhub, <a href="https://www.internews.org/updates/humanitarian-data-toolkit-rapid-assessment-kit-emergencies">Humanitarian Data Toolkit</a></li>
+    </ul>
+  </div>
+</div>
