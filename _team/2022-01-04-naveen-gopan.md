@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/naveen-gopan.jpeg
 full_name: Naveen Gopan
 position: Graduate Student Researcher (MS Track)

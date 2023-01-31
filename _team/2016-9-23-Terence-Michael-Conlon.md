@@ -3,7 +3,7 @@ status: former
 photo: /assets/uploads/team/terry.jpg
 full_name: Terence Michael Conlon
 position: Graduate Student Researcher (PhD Track)
-employer: Maxar Technologies (Ph.D. at Columbia, 2023)
+employer: Maxar Technologies (Ph.D., 2023)
 email: tmc2180@columbia.edu
 github:
 ---
