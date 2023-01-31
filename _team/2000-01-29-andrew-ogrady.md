@@ -1,5 +1,5 @@
 ---
 status: former
 full_name:  Andrew O’Grady
-employer:  
+employer:  (Ph.D. at Columbia, 2011)
 ---

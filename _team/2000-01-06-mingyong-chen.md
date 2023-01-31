@@ -1,5 +1,5 @@
 ---
 status: former
 full_name:  Mingyong Chen
-employer:  Caterpillar
+employer:  Caterpillar (Ph.D. at Columbia, 2001)
 ---

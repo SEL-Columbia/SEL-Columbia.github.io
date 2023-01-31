@@ -1,5 +1,5 @@
 ---
 status: former
 full_name:  Ahmet Shehata
-employer:  Consulting
+employer:  (Ph.D. at Columbia, 1999)
 ---

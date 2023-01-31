@@ -1,5 +1,5 @@
 ---
 status: former
 full_name:  Matthew McCarthy
-employer:  Lehigh
+employer:  Lehigh (Ph.D. at Columbia, 2006)
 ---
