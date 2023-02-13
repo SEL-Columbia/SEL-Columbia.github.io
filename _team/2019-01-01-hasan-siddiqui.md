@@ -2,7 +2,7 @@
 status: current
 photo: /assets/uploads/team/hasan.jpg
 full_name: Hasan Siddiqui
-position: Graduate Student Researcher (MS Track)
+position: Graduate Student Researcher (PHD Track)
 email: hss2152@columbia.edu
 github:
 ---
