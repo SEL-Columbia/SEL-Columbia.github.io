@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/zhiyuan.jpg
 full_name: Zhiyuan Fan
 position: Graduate Student Researcher (MS Track)
