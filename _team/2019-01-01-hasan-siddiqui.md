@@ -6,4 +6,4 @@ position: Graduate Student Researcher (PHD Track)
 email: hss2152@columbia.edu
 github:
 ---
-Hasan is a MS student in Mechanical Engineering studying Energy Systems. His research focuses on studying wind sites across the continental US, exploring synoptic scale interconnection along the east coast and building a regional energy system model to meet the demand using a mix of renewable and non-renewable generation sources as well as storage. Prior to Columbia, Hasan received a BS in Mechanical Engineering from Ghulam Ishaq Khan Institute of Engineering Sciences and Technology.
+Hasan is a PhD student in Mechanical Engineering. His research interests focus on using remote sensing to study vegetation phenologies and detect irrigation in sub-Saharan Africa. Previously he obtained a M.S degree at Columbia University and a B.S from Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (Pakistan).
