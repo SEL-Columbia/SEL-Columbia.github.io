@@ -1,7 +1,7 @@
 ---
 published: true
 author: "vijay-modi"
-title: CWP Uganda Project Briefs
+title: Scaling Local Energy Needs into National Investments in Uganda
 tags:
   - EnergyPlanning
   - News
@@ -10,6 +10,8 @@ tags:
 {:refdef: style="text-align: center;"}
 ![Diesel Powered Mill in Uganda](/assets/uploads/blog/2025/cwp_briefs/diesel_pue.png)
 {: refdef}
+
+Understanding what drives the community, what energy can unlock for rural livelihoods, and what activities entrepreneurial households are engaging in continues to be a challenge. We took a stab at understanding what it takes to achieve this at a “national scale”. The idea was to explore how bottom-up local demands can shape national-scale investments.
 
 The following briefs share some initial insights from our work in Uganda as part of the Columbia World Projects' initiative "Using Data to Catalyze Energy Investments". Read more about the project [here](https://worldprojects.columbia.edu/using-data-catalyze-energy-investments), and look out for more insights shared through future blog posts on this website.
 
