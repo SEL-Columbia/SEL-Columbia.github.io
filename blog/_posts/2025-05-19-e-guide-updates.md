@@ -1,7 +1,7 @@
 ---
 published: true
 author: "vijay-modi"
-title: e-GUIDE Updates
+title: e-GUIDE Updates 2025
 tags:
   - EnergyPlanning
   - News
