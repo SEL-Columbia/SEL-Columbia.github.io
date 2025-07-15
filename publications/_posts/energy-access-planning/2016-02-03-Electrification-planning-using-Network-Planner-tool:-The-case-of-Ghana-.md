@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2013/09/EnergyForSustainableDevelopment-ElectrificationPlanningInGhana-KemausuorEtAl.pdf"
 tags:
   - Energy Access Planning
+countries:
+  - Ghana
 ---

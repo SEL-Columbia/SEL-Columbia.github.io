@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/dsm_using_agriculture.pdf"
 tags:
   - ICT Energy
+countries:
+  - United States
 ---

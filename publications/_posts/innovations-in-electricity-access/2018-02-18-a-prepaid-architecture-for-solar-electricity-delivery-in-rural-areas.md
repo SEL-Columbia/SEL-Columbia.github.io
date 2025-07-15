@@ -5,4 +5,7 @@ link: "/assets/uploads/blog/2018/publications/a-prepaid-architecture-for-solar-e
 tags:
   - Innovations in Electricity Access
   - Shared Solar
+countries:
+  - Mali
+  - Uganda
 ---

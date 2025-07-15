@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2021/publications/short-term-apartment-level-load-forecasting-using-a-modified-neural-network.pdf"
 tags:
   - Household Energy Usage
+countries:
+  - United States
 ---

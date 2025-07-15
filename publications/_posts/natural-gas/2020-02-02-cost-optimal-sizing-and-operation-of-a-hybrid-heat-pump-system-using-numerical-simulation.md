@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2020/publications/cost-optimal-sizing-and-operation-of-a-hybrid-heat-pump-system-using-numerical-simulation.pdf"
 tags:
   - Natural Gas
+countries:
+  - United States
 ---

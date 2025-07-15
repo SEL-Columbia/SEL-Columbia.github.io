@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2013/04/Kenya-Paper-Energy-Policy-journal-version.pdf"
 tags:
   - Energy Access Planning
+countries:
+  - Kenya
 ---

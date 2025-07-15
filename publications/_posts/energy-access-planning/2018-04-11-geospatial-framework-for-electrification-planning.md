@@ -4,4 +4,14 @@ image: None
 link: "/assets/uploads/blog/2018/publications/geospatial-planning-framework-for-electrification-planning.pdf"
 tags:
   - Energy Access Planning
+countries:
+  - Tanzania
+  - Ghana
+  - Ethiopia
+  - Mali
+  - Nigeria
+  - Senegal
+  - Uganda
+  - Rwanda
+  - Kenya
 ---

@@ -5,4 +5,6 @@ link: "/assets/uploads/blog/2013/06/Tyler_Household_Performance.pdf"
 tags:
   - Cookstoves
   - Millennium Villages Project
+countries:
+  - Uganda
 ---

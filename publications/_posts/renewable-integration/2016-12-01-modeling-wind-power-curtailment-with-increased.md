@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2016/publications/modeling-wind-power-curtailment.pdf"
 tags:
   - Renewable Integration
+countries:
+  - United States
 ---
 
 Targeted, modest transmission upgrades can significantly reduce wind curtailment.

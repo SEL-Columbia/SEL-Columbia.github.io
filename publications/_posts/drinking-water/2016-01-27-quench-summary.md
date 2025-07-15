@@ -5,6 +5,8 @@ link: "/assets/uploads/blog/2014/10/Quench.pdf"
 tags:
   - Drinking Water
   - Quench
+countries:
+  - Global
 ---
 
 Pay-as-you-go hardware and software platform that offers an enhanced water management solution for rural, urban and peri-urban settings

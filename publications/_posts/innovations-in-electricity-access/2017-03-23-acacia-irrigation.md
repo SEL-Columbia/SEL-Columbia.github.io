@@ -5,6 +5,8 @@ link: "/assets/uploads/blog/2017/qsel-project-updates/qSEL-AcaciaIrrigation-Broc
 tags:
   - Innovations in Electricity Access
   - Acacia Irrigation
+countries:
+  - Senegal
 ---
 
 <p>Pay-as-you-go (or lease to own) system for smallholder irrigation</p>

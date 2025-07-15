@@ -5,4 +5,6 @@ link: "/assets/uploads/blog/2013/09/RenewableEnergy_CostVsReliability.pdf"
 tags:
   - Innovations in Electricity Access
   - Shared Solar
+countries:
+  - Mali
 ---

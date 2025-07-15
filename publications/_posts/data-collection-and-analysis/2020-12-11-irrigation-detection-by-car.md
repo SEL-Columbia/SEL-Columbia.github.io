@@ -5,6 +5,8 @@ link: "/assets/uploads/blog/2020/publications/irrigation-detection-by-car-ghtc-f
 tags:
   - Data Collection
   - Computer Vision
+countries:
+  - Senegal
 ---
 
 Computer Vision and Sensing for the Detection and Geolocation of Irrigated and Non-irrigated Farmland

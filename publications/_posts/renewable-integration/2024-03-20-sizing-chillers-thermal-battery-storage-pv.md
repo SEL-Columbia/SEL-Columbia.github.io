@@ -5,4 +5,6 @@ image: None
 link: "/assets/uploads/blog/2024/publications/sizing-chillers-thermal-battery-storage-pv.pdf"
 tags:
   - Renewable Integration
+countries:
+  - Qatar
 ---

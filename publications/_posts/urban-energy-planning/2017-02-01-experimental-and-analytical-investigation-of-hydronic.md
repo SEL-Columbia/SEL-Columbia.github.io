@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2016/publications/hydronic-system.pdf"
 tags:
   - Urban Energy Planning
+countries:
+  - United States
 ---
 
 Investigation of the pumping energy requirements of a 23-story residential building in NYC

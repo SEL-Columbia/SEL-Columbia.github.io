@@ -4,6 +4,9 @@ image: None
 link: "/assets/uploads/blog/2019/publications/low-voltage-system-design.pdf"
 tags:
   - Renewable Integration
+countries:
+  - Uganda
+  - Mali
 ---
 
 The potential for innovative designs for last-mile distribution and/or

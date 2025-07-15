@@ -819,3 +819,8 @@ HOMEPAGE
 	margin-bottom: 40px;
 	padding: 0px 30px 10px 30px;
 }
+
+.dashboard{
+  border: 2px solid blue;
+  border-radius: 20px; 
+}

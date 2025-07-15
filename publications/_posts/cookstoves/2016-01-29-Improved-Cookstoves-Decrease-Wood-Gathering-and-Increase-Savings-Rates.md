@@ -5,4 +5,6 @@ link: "/assets/uploads/blog/2013/06/Tiby_Cooking-Success_Final.pdf"
 tags:
   - Cookstoves
   - Millennium Villages Project
+countries:
+  - Mali
 ---

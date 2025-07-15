@@ -4,4 +4,13 @@ image: None
 link: "/assets/uploads/blog/2013/09/HouseholdEnergyAfrica.pdf"
 tags:
   - Household Energy Usage
+countries:
+  - Ghana
+  - Kenya
+  - Nigeria
+  - Rwanda
+  - Tanzania
+  - Malawi
+  - Uganda
+  - Mali
 ---

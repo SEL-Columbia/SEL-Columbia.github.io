@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2021/publications/promoting-reproducibility-and-increased-collaboration-in-electric-sector.pdf"
 tags:
   - Energy Access Planning
+countries:
+  - India
 ---

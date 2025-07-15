@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2020/publications/heating-our-homes.pdf"
 tags:
   - Household Energy Usage
+countries:
+  - United States
 ---
 
 And what does it mean for greenhouse gas emissions?

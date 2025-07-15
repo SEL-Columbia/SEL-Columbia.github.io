@@ -5,6 +5,9 @@ link: "/assets/uploads/blog/2018/publications/SimulationsOfEfficiencyImprovement
 tags:
   - Innovations in Electricity Access
   - Shared Solar
+countries:
+  - Mali
+  - Uganda
 ---
 
 <p>With data collected from photovoltaic microgrid users and simulations this report investigates potential cost reductions for distributed solar using alternate technologies and architectures.</p>

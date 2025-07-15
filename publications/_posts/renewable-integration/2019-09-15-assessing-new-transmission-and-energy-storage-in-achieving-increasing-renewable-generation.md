@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2019/publications/assessing-new-transmission-and-energy-storage-in-achieving-increasing-renewable-generation.pdf"
 tags:
   - Renewable Integration
+countries:
+  - United States
 ---

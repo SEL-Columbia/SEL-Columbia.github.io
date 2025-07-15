@@ -4,4 +4,13 @@ image: None
 link: "/assets/uploads/blog/2017/publications/electricity-access-in-emerging-and-developing-countries.pdf"
 tags:
   - Energy Access Planning
+countries:
+  - Ghana
+  - Mali
+  - Senegal
+  - Ethiopia
+  - Tanzania
+  - Rwanda
+  - Uganda
+  - Kenya
 ---

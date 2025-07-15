@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2013/09/HybridEnergy_PumpedHydro.pdf"
 tags:
   - Renewable Integration
+countries:
+  - India
 ---

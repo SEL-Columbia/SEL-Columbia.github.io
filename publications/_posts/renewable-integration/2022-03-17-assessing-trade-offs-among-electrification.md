@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2022/publications/assessing-trade-offs-among-electrification-and-grid-decarbonization.pdf"
 tags:
   - Renewable Integration
+countries:
+  - United States
 ---
 
 Application to New York State

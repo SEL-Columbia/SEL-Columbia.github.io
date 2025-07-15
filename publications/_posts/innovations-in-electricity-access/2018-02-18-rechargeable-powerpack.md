@@ -5,6 +5,8 @@ link: "/assets/uploads/blog/2010/04/Rechargeable_PowerPack.pdf"
 tags:
   - Innovations in Electricity Access
   - PowerPack
+countries:
+  - Kenya
 ---
 
 <p>Description of the rechargeable portable PowerPack developed in 2005.</p>

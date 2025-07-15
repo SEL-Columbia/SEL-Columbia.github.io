@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2018/publications/RuralEnergy_India.pdf"
 tags:
   - Household Energy Usage
+countries:
+  - India
 ---

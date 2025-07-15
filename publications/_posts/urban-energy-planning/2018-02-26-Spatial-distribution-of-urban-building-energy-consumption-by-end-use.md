@@ -5,4 +5,6 @@ link: "/assets/uploads/blog/2018/publications/Spatial-Distribution-of-Urban-Buil
 tags:
   - Urban Energy Planning
   - NYC Energy
+countries:
+  - United States
 ---

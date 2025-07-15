@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2018/publications/impact-of-deep-wind-power-penetration-on-variability-at-load-centers.pdf"
 tags:
   - Renewable Integration
+countries:
+  - United States
 ---

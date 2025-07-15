@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2019/publications/report-kaduna-electric.pdf"
 tags:
   - Energy Access Planning
+countries:
+  - Nigeria
 ---
 
 Achieving Universal Access In The Kaduna Electricity Service Area

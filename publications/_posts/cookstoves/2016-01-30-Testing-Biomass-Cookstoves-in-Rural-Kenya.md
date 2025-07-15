@@ -5,6 +5,8 @@ link: "/assets/uploads/blog/2013/06/Adkins-cookstove-Kenya-paper-Energy-for-S.D.
 tags:
   - Cookstoves
   - Millennium Villages Project
+countries:
+  - Kenya
 ---
 
  <p>Testing institutional biomass cookstoves in rural Kenyan schools for the Millennium Villages Project</p>

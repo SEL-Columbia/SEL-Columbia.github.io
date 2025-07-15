@@ -5,6 +5,9 @@ link: "/assets/uploads/blog/2017/qsel-project-updates/qSEL-SharedSolar-Brochure-
 tags:
   - Innovations in Electricity Access
   - Shared Solar
+countries:
+  - Mali
+  - Uganda
 ---
 
 Pay-as-you-go minigrids providing electric service to off-grid communities

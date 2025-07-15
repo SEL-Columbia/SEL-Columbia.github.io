@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2020/publications/a-stochastic-framework-to-evaluate-the-impact-of-agricultural-load-flexibility.pdf"
 tags:
   - Renewable Integration
+countries:
+  - India
 ---

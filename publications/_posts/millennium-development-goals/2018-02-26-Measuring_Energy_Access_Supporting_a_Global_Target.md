@@ -5,4 +5,17 @@ link: "/assets/uploads/blog/2018/publications/Measuring_Energy_Access_Supporting
 tags:
   - Millennium Development Goals
   - Development Goals
+countries:
+  - Malawi
+  - South Africa
+  - Uganda
+  - Tanzania
+  - Kenya
+  - Senegal
+  - Cameroon
+  - Madagascar
+  - Cape Verde
+  - Niger
+  - Burkina Faso
+  - Benin
 ---

@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2016/publications/examination-of-optimal-operation.pdf"
 tags:
   - Renewable Integration
+countries:
+  - United States
 ---
 
 Elucidates notions concerning the ideal operation and greenhouse

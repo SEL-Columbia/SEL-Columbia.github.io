@@ -5,6 +5,8 @@ link: "/assets/uploads/blog/2010/04/lanternBOMrev8_6-04-10.pdf"
 tags:
   - Innovations in Electricity Access
   - PowerPack
+countries:
+  - Kenya
 ---
 
 <p>Bill of materials for the rechargeable portable PowerPack.</p>

@@ -4,6 +4,10 @@ image: None
 link: "http://qsel.columbia.edu/development-planning-toolkit/"
 tags:
   - ICT Energy
+countries:
+  - India
+  - Indonesia
+  - Papua New Guinea
 ---
 
  A guide on using data to plan smarter infrastructure

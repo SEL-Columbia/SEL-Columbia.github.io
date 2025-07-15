@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2021/publications/impacts-of-covid-19-related-stay-at-home-restrictions-on-residential-electricity-use.pdf"
 tags:
   - Household Energy Usage
+countries:
+  - United States
 ---

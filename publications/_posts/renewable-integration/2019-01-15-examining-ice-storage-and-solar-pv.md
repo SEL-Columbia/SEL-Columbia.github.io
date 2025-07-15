@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2019/publications/examining-ice-storage-and-solar-pv.pdf"
 tags:
   - Renewable Integration
+countries:
+  - Qatar
 ---

@@ -5,6 +5,15 @@ link: "/assets/uploads/blog/2012/06/Infrastructure_and_Energy_Report_WEB.pdf"
 tags:
   - ICT Energy
   - Millennium Villages Project
+countries:
+  - Ghana
+  - Kenya
+  - Nigeria
+  - Rwanda
+  - Tanzania
+  - Malawi
+  - Uganda
+  - Mali
 ---
 
  <p>An overview and assessment of the Millennium Village project energy and infrastructure sector after five years</p>

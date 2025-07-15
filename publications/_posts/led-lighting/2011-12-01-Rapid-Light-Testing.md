@@ -6,6 +6,9 @@ image: None
 link: "/assets/uploads/blog/2010/12/Working-Paper-Rapid-Light-Testing.pdf"
 tags:
   - LED Lighting
+countries:
+  - Ghana
+  - Nigeria
 ---
 
 This paper presents a rapid, inexpensive procedure for quantitative comparison

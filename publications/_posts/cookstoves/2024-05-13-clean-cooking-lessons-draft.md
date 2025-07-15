@@ -4,4 +4,12 @@ image: None
 link: "/assets/uploads/blog/2024/publications/Clean_Cooking_May_13_2024.pdf"
 tags:
   - Cookstoves
+countries:
+  - Tanzania
+  - Mozambique
+  - Ethiopia
+  - Uganda
+  - Kenya
+  - Senegal
+  - India
 ---

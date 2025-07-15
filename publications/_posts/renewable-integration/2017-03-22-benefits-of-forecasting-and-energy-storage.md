@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2017/publications/energy-storage.pdf"
 tags:
   - Renewable Integration
+countries:
+  - Cape Verde
 ---
 
 Case study of two potential approaches to reduce wind power curtailments in Sao Vicente

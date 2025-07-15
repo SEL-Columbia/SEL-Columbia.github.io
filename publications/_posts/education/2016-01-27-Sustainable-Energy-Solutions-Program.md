@@ -5,4 +5,6 @@ link: "/assets/uploads/blog/2014/04/WestAfricanSustainableEnergyProgram.pdf"
 tags:
   - Education
   - Sustainable Energy Solutions Program
+countries:
+  - West Africa
 ---

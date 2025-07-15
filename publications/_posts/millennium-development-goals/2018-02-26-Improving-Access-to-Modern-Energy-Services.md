@@ -5,4 +5,32 @@ link: "/assets/uploads/blog/2018/publications/Improving-Access-to-Modern-Energy-
 tags:
   - Millennium Development Goals
   - Development Goals
+countries:
+  - India
+  - Ghana
+  - Rwanda
+  - Morocco
+  - Ethiopia
+  - Kenya
+  - Brazi
+  - Cambodia
+  - China
+  - Costa Rica
+  - El Salvador
+  - Gambia
+  - Ghana
+  - Guatemala
+  - Honduras
+  - Mali
+  - Morocco
+  - Nepal
+  - Nicaragua
+  - Philippines
+  - Senegal
+  - South Africa
+  - Tanzania
+  - Thailand
+  - Uganda
+  - Vietnam
+  - Zambia
 ---

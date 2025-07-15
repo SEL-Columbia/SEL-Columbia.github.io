@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2020/publications/residential-electricity-conservation-for-large-scale-applications-with-utilities.pdf"
 tags:
   - Household Energy Usage
+countries:
+  - United States
 ---

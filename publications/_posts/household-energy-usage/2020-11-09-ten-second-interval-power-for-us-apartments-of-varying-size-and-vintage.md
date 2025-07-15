@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2020/publications/ten-second-interval-power-for-us-apartments-of-varying-size-and-vintage.pdf"
 tags:
   - Household Energy Usage
+countries:
+  - United States
 ---

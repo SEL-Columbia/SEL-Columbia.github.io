@@ -4,6 +4,15 @@ image: None
 link: "/assets/uploads/blog/2014/11/potential-for-regional-use-of-east-africa’s-natural-gas.pdf"
 tags:
   - Natural Gas
+countries:
+  - Mozambique
+  - Malawi
+  - Tanzania
+  - Kenya
+  - Uganda
+  - Rwanda
+  - Burundi
+  - Ethiopia
 ---
 
 <p>The economic viability of developing a natural gas transmission system across Eastern and Southern Africa</p>

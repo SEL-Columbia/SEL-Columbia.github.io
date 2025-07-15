@@ -5,4 +5,7 @@ link: "/assets/uploads/blog/2010/07/field-testing-and-survey-evaluation-of-house
 tags:
   - Cookstoves
   - Millennium Villages Project
+countries:
+  - Uganda
+  - Tanzania
 ---

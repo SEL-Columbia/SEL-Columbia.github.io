@@ -4,6 +4,8 @@ image: None
 link: "/assets/uploads/blog/2016/publications/ghg-emissions-factors.pdf"
 tags:
   - Renewable Integration
+countries:
+  - United States
 ---
 
 Average GHG emissions factors for NY State and GHG emissions factors for interventions in NYC

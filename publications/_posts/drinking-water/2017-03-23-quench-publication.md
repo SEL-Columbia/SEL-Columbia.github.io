@@ -5,6 +5,8 @@ link: "/assets/uploads/blog/2017/qsel-project-updates/qSEL-Quench-Brochure-2017.
 tags:
   - Drinking Water
   - Quench
+countries:
+  - Global
 ---
 
 <p>Pay-as-you-go hardware and software platform that offers an enhanced water management solution for rural, urban and peri-urban settings</p>

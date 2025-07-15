@@ -5,4 +5,6 @@ link: "/assets/uploads/blog/2013/09/Comparing-solar-home-systems-to-a-solar-micr
 tags:
   - Innovations in Electricity Access
   - Shared Solar
+countries:
+  - Uganda
 ---

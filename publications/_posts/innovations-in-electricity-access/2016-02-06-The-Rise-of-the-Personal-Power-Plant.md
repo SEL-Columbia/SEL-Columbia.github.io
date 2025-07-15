@@ -5,6 +5,10 @@ link: "/assets/uploads/blog/2016/publications/the-rise-of-the-personal-power-pla
 tags:
   - Innovations in Electricity Access
   - Shared Solar
+countries:
+  - United States
+  - Germany
+  - Japan
 ---
 
 Smart and agile power systems will let every home and business generate, store, and share electricity

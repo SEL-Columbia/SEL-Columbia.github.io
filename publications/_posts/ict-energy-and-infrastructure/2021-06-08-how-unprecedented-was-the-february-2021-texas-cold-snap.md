@@ -4,4 +4,6 @@ image: None
 link: "/assets/uploads/blog/2021/publications/how-unprecedented-was-the-february-2021-texas-cold-snap.pdf"
 tags:
   - ICT Energy
+countries:
+  - United States
 ---
