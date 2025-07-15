@@ -1,6 +1,5 @@
 ---
 title: Publications
-author: zoe-hightower
 ---
 
 <style>
@@ -300,28 +299,29 @@ function applyFiltersAndSort() {
 
   // Filter + collect visible
   const items = Array.from(document.querySelectorAll('.publication-item'));
-  const vis   = items.filter(item => {
+  const vis = items.filter(item => {
   const yr   = item.dataset.year;
   const tArr = item.dataset.tags.split(',');
   const okY  = allY || years.includes(yr);
-  const highlightCountries = [
-  "United States", "Uganda", "Ethiopia", "Nigeria",
-  "Tanzania", "Kenya", "Senegal", "Ghana", "Rwanda", "Global"
-  ];
+  const okT  = allT || tags.some(tag => tArr.includes(tag));
 
+  const highlightCountries = [
+    "United States", "Uganda", "Ethiopia", "Nigeria",
+    "Tanzania", "Kenya", "Senegal", "Ghana", "Rwanda", "Global"
+  ];
   const rawCountries = item.dataset.countries.split(',').map(c => c.trim());
 
   const mappedCountries = rawCountries.map(c => {
     if (c === "Global") return "Global";
     return highlightCountries.includes(c) ? c : "Other";
-  }); 
+  });
 
   const okC = allC || mappedCountries.some(c => countries.includes(c));
 
-  const okC  = allC || CArr.some(c => countries.includes(c));
   item.style.display = (okY && okT && okC) ? '' : 'none';
   return okY && okT && okC;
-  });
+});
+
 
   // Sort
   const order = document.getElementById('sort-select').value;
