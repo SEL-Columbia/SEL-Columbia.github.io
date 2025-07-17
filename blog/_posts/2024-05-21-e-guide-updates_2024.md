@@ -5,6 +5,8 @@ title: e-GUIDE Updates 2024
 tags:
   - EnergyPlanning
   - News
+projects:
+  - e-guide
 ---
 
 ![e-guide Selected Figures](/assets/uploads/blog/2024/e-guide-updates/eguideUpdatesImage.png)

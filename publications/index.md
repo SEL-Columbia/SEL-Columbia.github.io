@@ -132,7 +132,7 @@ title: Publications
 </style>
 
 <div>
-  <h2 id="products__tools">Publications</h2>
+  <h2 id="products__tools">Publications, Reports, and Briefs</h2>
 
   <!-- SORT + FILTER PANEL -->
   <div class="panel-div">
