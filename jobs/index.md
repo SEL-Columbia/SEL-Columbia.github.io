@@ -35,6 +35,19 @@ title: Jobs
     {% endif %}
 
 </ul>
+
+<h2 style="color: #000000;">
+  For Students:
+</h2>
+<p style="color: #000000;">
+  We welcome interest from students at all levels:
+</p>
+<ul style="color: #000000;">
+  <li><strong>Undergraduate and Master’s students:</strong> Current students may send a CV and statement of interest to <a href="mailto:modi@columbia.edu">modi@columbia.edu</a>.</li>
+  <li><strong>Prospective PhD students:</strong> If you are applying to Columbia and interested in our lab, please email <a href="mailto:modi@columbia.edu">modi@columbia.edu</a> to express your interest.</li>
+  <li><strong>Admitted PhD students:</strong> Students who have already been accepted into Columbia may contact <a href="mailto:modi@columbia.edu">modi@columbia.edu</a> about research opportunities.</li>
+</ul>
+
 <h2 style="font-weight: 500 !important; color: #000000;">Projects</h2>
 <p style="color: #000000;">Have a look around our site for some of the <a href="/projects/">projects</a> we are working on, and some <a href="/products-tools/">software tools</a> we are building to solve the problems we encounter.</p>
 <p style="color: #000000;">Project examples:</p>
