@@ -1,7 +1,5 @@
 ---
-title: 'Working Paper: A Rapid, Low-cost Testing Procedure for Measuring Light
- Output of Portable Lanterns with Results for Five Rechargeable LED Lantern
- Models'
+title: 'Working Paper: A Rapid, Low-cost Testing Procedure for Measuring Light Output of Portable Lanterns with Results for Five Rechargeable LED Lantern Models'
 image: None
 link: "/assets/uploads/blog/2010/12/Working-Paper-Rapid-Light-Testing.pdf"
 tags:

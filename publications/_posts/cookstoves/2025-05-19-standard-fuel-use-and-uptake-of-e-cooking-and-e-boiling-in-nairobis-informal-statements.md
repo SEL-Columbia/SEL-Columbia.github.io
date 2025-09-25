@@ -7,7 +7,7 @@ tags:
 - Household Energy Usage
 - Drinking Water
 countries:
-- Sub-Saharan Africa
+- Kenya
 projects:
   
 ---
