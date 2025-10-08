@@ -14,7 +14,7 @@ Prof. Modi’s areas of expertise are energy resources/access, energy planning f
           <img src="/assets/uploads/team/Google_Scholar_logo.svg.png" height=50px
           width=50px/>
 </a>
-<a href="https:linkedin.com/in/vijay-modi-39241229">
+<a href="https://linkedin.com/in/vijay-modi-39241229">
           <img src="/assets/uploads/team/linkedin-logo-linkedin-icon-transparent-free-png.webp" height=70px
           width=70px/>
 </a>
