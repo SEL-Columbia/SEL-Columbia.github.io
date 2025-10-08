@@ -143,6 +143,7 @@ title: Publications
         <div class="controls">
           <button type="button" class="select-all" data-group="year">Select All</button>
           <button type="button" class="clear-filter" data-group="year">Clear All</button>
+          <!--need to make it where button is only one button that changes based on what you have clicked (e.g. if select all was clicked, button now says clear all and if clicked around would then say select all)-->
         </div>
         {% for y in (2009..2025) reversed %}
           <label><input type="checkbox" name="year" value="{{ y }}"> {{ y }}</label>

@@ -6,7 +6,6 @@ image-alt: cwp-ug-surveys
 image-height: 112
 image-width: 250
 ---
-<h3>CWP Energy for Productive Use Survey Tools</h3>
 <p>Six survey instruments were developed to capture and characterize the rural energy demands throughout Uganda: Productive Use of Energy (PUE), Market Center, Farmer Interview, Plot Observations, Light Use Shops, and Energy Issues and Priorities. Surveys were coded and conducted using KoboToolbox, and have been converted to easy to review pdf versions that can be found at the links below.</p>
   * <a href="/assets/uploads/tools/cwp_uganda_surveys/ProdUseLocations_CWP-UGA_1.31.23.pdf" target="blank">Productive Use of Energy (PUE)</a>
   * <a href="/assets/uploads/tools/cwp_uganda_surveys/MarketCtr_CWP-UGA_NatlSurvey_Jan_2023.pdf" target="blank">Market Center</a>

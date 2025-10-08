@@ -5,6 +5,7 @@ link: "/assets/uploads/blog/2012/7/potential-for-distributed-combined-heat-and-p
 tags:
 - Data Collection
 - Urban Energy Planning
+- NYC Energy
 countries:
 - United States
 projects:

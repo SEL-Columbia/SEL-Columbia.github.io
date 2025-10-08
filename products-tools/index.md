@@ -6,13 +6,18 @@ title: 'Products &#038; Tools'
 <div class="row-fluid products">
   <div class="span12">
     <div class="row-fluid">
-      <div class="span4">
+      <div class="span4 clickable_image">
         <a href="{{post.image-link}}">
           <img src="{{post.image-source}}" width="{{post.image-width}}" 
            height="{{post.image-height}}" class="alignnone size-full" />
         </a>
       </div>
       <div class="span8">
+       
+          <h3><a href ="{{post.image-link}}">
+              {{post.title}}
+          </a></h3>
+        
         {{ post.content }}
       </div>
     </div>

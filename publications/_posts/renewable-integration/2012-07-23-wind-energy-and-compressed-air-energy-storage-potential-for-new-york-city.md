@@ -5,6 +5,7 @@ link: "/assets/uploads/blog/2012/7/wind-energy-and-compressed-air-energy-storage
 tags:
 - Renewable Integeration
 - Natural Gas
+- NYC Energy
 countries:
 - United States
 projects:

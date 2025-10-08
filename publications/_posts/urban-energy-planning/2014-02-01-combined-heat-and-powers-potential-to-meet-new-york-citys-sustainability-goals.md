@@ -4,6 +4,7 @@ image: none
 link: "/assets/uploads/blog/2014/02/combined-heat-and-powers-potential-to-meet-new-york-citys-sustainability-goals.pdf"
 tags:
 - Urban Energy Planning
+- NYC Energy
 countries:
 - United States
 projects:

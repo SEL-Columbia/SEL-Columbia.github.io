@@ -5,6 +5,7 @@ link: "/assets/uploads/blog/2014/12/Potential-for-increased-wind-generated ...za
 tags:
 - Urban Energy Planning
 - Renewable Integration
+- NYC Energy
 countries:
 - United States
 projects:

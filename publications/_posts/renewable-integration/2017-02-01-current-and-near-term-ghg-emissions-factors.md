@@ -4,6 +4,7 @@ image: None
 link: "/assets/uploads/blog/2016/publications/ghg-emissions-factors.pdf"
 tags:
   - Renewable Integration
+  - NYC Energy
 countries:
   - United States
 ---

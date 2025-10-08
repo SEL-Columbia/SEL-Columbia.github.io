@@ -6,7 +6,7 @@ image-alt: rural-geospatial-settlement-assessment-tool
 image-height: 50
 image-width: 250
 ---
-<h3>The Rural Geospatial Settlement Assessment Tool</h3>
+
 <p>This tool enables a fast transition from raw geospatial data to preliminary electrification network estimates. It includes:</p>
 
 * a structure-merging module that converts satellite-predicted building footprints into estimated household locations

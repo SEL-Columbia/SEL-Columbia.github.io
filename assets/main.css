@@ -824,3 +824,9 @@ HOMEPAGE
   border: 2px solid blue;
   border-radius: 20px; 
 }
+
+.clickable_image:hover{
+  transition: all 0.3s ease;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}

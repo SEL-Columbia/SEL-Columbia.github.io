@@ -4,6 +4,7 @@ image: None
 link: "/assets/uploads/blog/2016/publications/modeling-wind-power-curtailment.pdf"
 tags:
   - Renewable Integration
+  - NYC Energy
 countries:
   - United States
 ---
