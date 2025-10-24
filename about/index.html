@@ -1,6 +1,56 @@
 ---
 title: About
 ---
+<!-- Lab Director Callout-->
+
+<div class ="row">
+  <div class="span12 director-callout">
+    <a href="/team/vijay-modi/">
+      <h2 style="padding-top: 15px!important; text-decoration: none; color:#333;">Lab Director</h2>
+    </a>
+    <div class="row">
+      <div class="span4">
+        <a href="/team/vijay-modi/" >
+          <div class="image-background">
+          <img src="/assets/uploads/team/vijay.jpg" style="width: 250px; height: 225px; text-align: center; border-radius: 3px;">
+        </a>
+      </div>
+      <div class="caption-box">
+        <div class="row">
+          <a href="/team/vijay-modi/" style="text-decoration: none; color: #08c;">
+            <div class="span4 about-name" style="justify-content: center; font-size: x-large; font-weight: bold;">
+              Vijay Modi
+            </div>
+          </a>
+        </div>
+        <div class ="row">
+          <div class="about_links span4" style="margin-top: 10px; justify-content: center;">
+            <a href="/assets/uploads/team/Modi-Biosketch-2025.pdf" class="button">
+              Biosketch
+            </a>
+            <a href="/assets/uploads/team/Modi-fullcv-2025.pdf" class="button">
+              CV
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="span8">
+      <a href="/team/vijay-modi/" style="text-decoration: none; color: #333;">
+        <b>Vijay Modi</b> is a Professor in Columbia University’s Departments of Mechanical Engineering and Earth &amp;
+        Environmental Engineering, and in the Climate School. He is the director of the
+      </a>
+      <a href="/">
+        Quadracci Sustainable Engineering Laboratory (QSEL)
+      </a>.
+      <a href="/team/vijay-modi/" style="text-decoration: none; color: #333;">
+        In the last decade, his laboratory, QSEL, has carried out pioneering work in digital mini-grids that integrate electricity supply/demand
+        monitoring, dynamic allocation of energy/power resources to individual customers and the use of IoT for system, battery, customer commercial account management with integration of communication and controls. QSEL has developed network expansion tools for electric utilities in low-resource settings and data-driven analysis of such utilities for demand estimation and forecasting. The lab is currently developing data-driven models for electrification of heating and transport.
+      </a>
+      <br>
+    </div>
+  </div>
+</div>
 
 
 <!-- Current Members (team) -->
@@ -15,8 +65,15 @@ title: About
 
 {% assign current = site.team | where:"status","current" %}
 {% for member in current %}
+    {% if member.full_name == "Vijay Modi"%} <!--Professor Modi is in the Director Callout above-->
+        {% continue %}
+    {% endif %}
     <a class="profile" href="{{ member.url }}">
-        <img class="profile_img" src="{{ member.photo }}">
+        {% if member.picture_type == "top"%}
+            <img class="profile_img" src="{{ member.photo }}" style="object-fit: cover; object-position: top;">
+        {% else %}
+            <img class="profile_img" src="{{ member.photo }}" style="object-fit: cover;">
+        {% endif %}
         <div class="profile_name">
             {{ member.full_name}}
         </div>
