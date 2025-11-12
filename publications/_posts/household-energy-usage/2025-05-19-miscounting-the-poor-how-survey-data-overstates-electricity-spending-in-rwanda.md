@@ -1,7 +1,7 @@
 ---
-title: 'e-Guide Update: Miscounting the Poor: How Survey Data Overstates Electricity Spending in Rwanda.'
+title: 'e-Guide Update: Survey Bias and the Poor: How Survey Responses Overstate Electricity Spending'
 image: None
-link: "/assets/uploads/blog/2025/student_updates/joel-one-pager-survey_vs_utility_data_2025.pdf"
+link: "/assets/uploads/blog/2025/student_updates/Correcting_Survey_Bias_summary.pdf"
 tags:
 - Data Collection
 - Household Energy Usage
