@@ -915,12 +915,3 @@ HOMEPAGE
 .about-name:hover{
   color: darkblue;
 }
-
-
-.link_two, .link_three{
-  z-index: 1;
-}
-.link_one{
-  z-index: 2;
-}
-

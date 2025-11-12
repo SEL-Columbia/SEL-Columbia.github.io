@@ -21,7 +21,8 @@ This page highlights the impactful work conducted by students in our lab over th
 
 
 **Research update: Surveys overstate electricity spending by low-income households, leading to potential missteps in energy policy decisions.** By Joel Mugyenyi:
-* [Miscounting the Poor: How Survey Data Overstates Electricity Spending in Rwanda.](/assets/uploads/blog/2025/student_updates/joel-one-pager-survey_vs_utility_data_2025.pdf)
+* [Survey Bias and the Poor: How Survey Responses Overstate Electricity Spending.](/assets/uploads/blog/2025/student_updates/Correcting_Survey_Bias_summary.pdf)
+
 
 ![e-guide Joel Mugyenyi](/assets/uploads/blog/2025/student_updates_figures/Joel_figure_eguide_updates_2025.png){: .small-image }
 
