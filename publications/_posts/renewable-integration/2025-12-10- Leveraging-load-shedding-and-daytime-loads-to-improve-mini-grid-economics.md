@@ -7,5 +7,6 @@ tags:
 - Data Collection
 countries:
 - Uganda
+- Sub-Saharan Africa
 projects:
 ---

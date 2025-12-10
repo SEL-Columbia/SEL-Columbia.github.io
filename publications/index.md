@@ -178,7 +178,7 @@ title: Publications
     </div>
     {% assign all_countries = site.categories.publications
          | map:"countries" | join:"," | split:"," | uniq | sort %}
-    {% assign highlight_countries = "United States,Uganda,Ethiopia,Nigeria,Tanzania,Kenya,Senegal,Ghana,Rwanda,Saharan Africa" | split: "," %}
+    {% assign highlight_countries = "United States,Uganda,Ethiopia,Nigeria,Tanzania,Kenya,Senegal,Ghana,Rwanda,Sub-Saharan Africa" | split: "," %}
     
     {% for country in all_countries %}
       {% assign trimmed = country | strip %}
@@ -214,7 +214,7 @@ title: Publications
           {% for tag in post.tags %}
             <span class="pub-tag">{{ tag }}</span>
           {% endfor %}
-          {% assign highlight_countries = "United States,Uganda,Ethiopia,Nigeria,Tanzania,Kenya,Senegal,Ghana,Rwanda,Global,Saharan Africa" | split: "," %}
+          {% assign highlight_countries = "United States,Uganda,Ethiopia,Nigeria,Tanzania,Kenya,Senegal,Ghana,Rwanda,Global,Sub-Saharan Africa" | split: "," %}
           {% assign display_countries = "" | split: "" %}
           {% assign fallback_countries = "" | split: "" %}
 
@@ -308,7 +308,7 @@ function applyFiltersAndSort() {
 
   const highlightCountries = [
     "United States", "Uganda", "Ethiopia", "Nigeria",
-    "Tanzania", "Kenya", "Senegal", "Ghana", "Rwanda", "Global", "Saharan Africa"
+    "Tanzania", "Kenya", "Senegal", "Ghana", "Rwanda", "Global", "Sub-Saharan Africa"
   ];
   const rawCountries = item.dataset.countries.split(',').map(c => c.trim());
 

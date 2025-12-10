@@ -5,6 +5,6 @@ link: "/assets/uploads/blog/2025/publications/final_publication_accel-tlnd.pdf"
 tags:
 - Innovations in Electricity Access
 countries:
-- Saharan Africa
+- Sub-Saharan Africa
 projects:
 ---
