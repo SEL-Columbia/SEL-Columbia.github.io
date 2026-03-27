@@ -1,5 +1,5 @@
 ---
-status: current
+status: former
 photo: /assets/uploads/team/aftab-zindani.jpg
 full_name: Aftab Zindani
 position: Staff Research Associate
